@@ -9,6 +9,7 @@ import qrcode
 from PIL import Image
 from pyzbar.pyzbar import decode
 import cv2 # Import OpenCV for camera access
+import numpy as np # <-- FIX ADDED HERE: Import numpy for array operations
 
 # Define the file path for the CSV data
 # The user uploaded a file with a similar name. Ensure this matches the file in your directory.
