@@ -1,0 +1,1001 @@
+UID,Vendor_Name,Part_Type,Batch_Code,Manufacturing_Date,Last_Inspection_Date,Warranty_End_Date,Status,AI_Analysis
+SI25CB46900001,Wright Ltd,Elastic Rail Clip,B469,19-01-2025,08-02-2025,18-01-2030,OK,Performance nominal.
+PP25PB72800002,"Wright, West and James",Rail Pad,B728,22-01-2025,03-02-2025,21-01-2030,OK,Performance nominal.
+SI25LB84100003,Wright Ltd,GFN Liner,B841,27-07-2025,02-08-2025,26-07-2030,OK,Performance nominal.
+PP25PB65500004,"Wright, West and James",Rail Pad,B655,04-05-2025,11-05-2025,03-05-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB22600005,Kent-Young,Rail Pad,B226,01-02-2025,10-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB22900006,"Cortez, Marsh and Nelson",GFN Liner,B229,07-05-2025,26-05-2025,06-05-2030,OK,Performance nominal.
+SI25LB27200007,Wright Ltd,GFN Liner,B272,08-02-2025,28-02-2025,07-02-2030,OK,Performance nominal.
+PP25LB12600008,"Wright, West and James",GFN Liner,B126,26-02-2025,06-03-2025,25-02-2030,OK,Performance nominal.
+RC25CB85300009,Kent-Young,Elastic Rail Clip,B853,18-03-2025,01-04-2025,17-03-2030,OK,Performance nominal.
+PP25CB97300010,"Wright, West and James",Elastic Rail Clip,B973,20-01-2025,02-02-2025,19-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB21100011,"Cortez, Marsh and Nelson",GFN Liner,B211,27-04-2025,10-05-2025,26-04-2030,OK,Performance nominal.
+TS25LB35600012,"Cortez, Marsh and Nelson",GFN Liner,B356,22-05-2025,08-06-2025,21-05-2030,OK,Performance nominal.
+RC25CB45000013,Kent-Young,Elastic Rail Clip,B450,23-05-2025,12-06-2025,22-05-2030,OK,Performance nominal.
+RC25PB90300014,Kent-Young,Rail Pad,B903,17-04-2025,04-05-2025,16-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB17300015,Wright Ltd,Elastic Rail Clip,B173,20-07-2025,25-07-2025,19-07-2030,OK,Performance nominal.
+SI25PB64400016,Wright Ltd,Rail Pad,B644,13-01-2025,27-01-2025,12-01-2030,OK,Performance nominal.
+RC25CB67100017,Kent-Young,Elastic Rail Clip,B671,18-08-2025,26-08-2025,17-08-2030,OK,Performance nominal.
+PP25PB77900018,"Wright, West and James",Rail Pad,B779,06-03-2025,26-03-2025,05-03-2030,OK,Performance nominal.
+SI25LB31900019,Wright Ltd,GFN Liner,B319,02-04-2025,13-04-2025,01-04-2030,OK,Performance nominal.
+RC25CB84100020,Kent-Young,Elastic Rail Clip,B841,14-08-2025,27-08-2025,13-08-2030,OK,Performance nominal.
+TS25PB84000021,"Cortez, Marsh and Nelson",Rail Pad,B840,10-07-2025,20-07-2025,09-07-2030,OK,Performance nominal.
+PP25PB12800022,"Wright, West and James",Rail Pad,B128,24-01-2025,12-02-2025,23-01-2030,OK,Performance nominal.
+SI25CB44300023,Wright Ltd,Elastic Rail Clip,B443,01-04-2025,13-04-2025,31-03-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB35600024,"Wright, West and James",GFN Liner,B356,14-03-2025,29-03-2025,13-03-2030,OK,Performance nominal.
+SI25CB55600025,Wright Ltd,Elastic Rail Clip,B556,04-06-2025,11-06-2025,03-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB68300026,Wright Ltd,GFN Liner,B683,27-07-2025,05-08-2025,26-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB79100027,Kent-Young,Rail Pad,B791,20-03-2025,26-03-2025,19-03-2030,OK,Performance nominal.
+TS25PB29000028,"Cortez, Marsh and Nelson",Rail Pad,B290,19-06-2025,30-06-2025,18-06-2030,OK,Performance nominal.
+SI25CB77900029,Wright Ltd,Elastic Rail Clip,B779,24-05-2025,13-06-2025,23-05-2030,OK,Performance nominal.
+RC25LB74600030,Kent-Young,GFN Liner,B746,06-04-2025,15-04-2025,05-04-2030,OK,Performance nominal.
+PP25PB76600031,"Wright, West and James",Rail Pad,B766,17-02-2025,25-02-2025,16-02-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB88500032,"Wright, West and James",GFN Liner,B885,19-01-2025,04-02-2025,18-01-2030,OK,Performance nominal.
+PP25CB20900033,"Wright, West and James",Elastic Rail Clip,B209,01-05-2025,06-05-2025,30-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB96700034,Kent-Young,GFN Liner,B967,01-07-2025,12-07-2025,30-06-2030,OK,Performance nominal.
+TS25LB93600035,"Cortez, Marsh and Nelson",GFN Liner,B936,18-02-2025,26-02-2025,17-02-2030,OK,Performance nominal.
+TS25PB44700036,"Cortez, Marsh and Nelson",Rail Pad,B447,25-03-2025,30-03-2025,24-03-2030,OK,Performance nominal.
+RC25CB66300037,Kent-Young,Elastic Rail Clip,B663,04-04-2025,23-04-2025,03-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB98500038,Kent-Young,Elastic Rail Clip,B985,25-08-2025,03-09-2025,24-08-2030,OK,Performance nominal.
+PP25CB60200039,"Wright, West and James",Elastic Rail Clip,B602,03-04-2025,17-04-2025,02-04-2030,OK,Performance nominal.
+TS25PB16700040,"Cortez, Marsh and Nelson",Rail Pad,B167,22-08-2025,31-08-2025,21-08-2030,OK,Performance nominal.
+SI25LB35300041,Wright Ltd,GFN Liner,B353,24-02-2025,08-03-2025,23-02-2030,OK,Performance nominal.
+TS25LB89400042,"Cortez, Marsh and Nelson",GFN Liner,B894,22-02-2025,06-03-2025,21-02-2030,OK,Performance nominal.
+PP25LB47000043,"Wright, West and James",GFN Liner,B470,20-06-2025,25-06-2025,19-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB59500044,"Wright, West and James",Rail Pad,B595,20-02-2025,11-03-2025,19-02-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB84600045,"Cortez, Marsh and Nelson",Elastic Rail Clip,B846,10-05-2025,30-05-2025,09-05-2030,OK,Performance nominal.
+PP25LB93100046,"Wright, West and James",GFN Liner,B931,24-05-2025,05-06-2025,23-05-2030,OK,Performance nominal.
+TS25CB40100047,"Cortez, Marsh and Nelson",Elastic Rail Clip,B401,24-04-2025,09-05-2025,23-04-2030,OK,Performance nominal.
+RC25PB11200048,Kent-Young,Rail Pad,B112,01-04-2025,19-04-2025,31-03-2030,OK,Performance nominal.
+TS25LB42300049,"Cortez, Marsh and Nelson",GFN Liner,B423,17-04-2025,26-04-2025,16-04-2030,OK,Performance nominal.
+RC25LB82300050,Kent-Young,GFN Liner,B823,15-08-2025,30-08-2025,14-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB72500051,Kent-Young,GFN Liner,B725,03-05-2025,18-05-2025,02-05-2030,OK,Performance nominal.
+PP25PB43400052,"Wright, West and James",Rail Pad,B434,21-08-2025,06-09-2025,20-08-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB96900053,Wright Ltd,Elastic Rail Clip,B969,03-01-2025,18-01-2025,02-01-2030,OK,Performance nominal.
+TS25CB73300054,"Cortez, Marsh and Nelson",Elastic Rail Clip,B733,12-06-2025,27-06-2025,11-06-2030,OK,Performance nominal.
+TS25PB90900055,"Cortez, Marsh and Nelson",Rail Pad,B909,23-04-2025,05-05-2025,22-04-2030,OK,Performance nominal.
+PP25PB54000056,"Wright, West and James",Rail Pad,B540,04-03-2025,23-03-2025,03-03-2030,OK,Performance nominal.
+RC25CB80700057,Kent-Young,Elastic Rail Clip,B807,12-04-2025,24-04-2025,11-04-2030,OK,Performance nominal.
+SI25CB80800058,Wright Ltd,Elastic Rail Clip,B808,10-04-2025,15-04-2025,09-04-2030,OK,Performance nominal.
+RC25PB20300059,Kent-Young,Rail Pad,B203,10-07-2025,19-07-2025,09-07-2030,OK,Performance nominal.
+TS25CB64900060,"Cortez, Marsh and Nelson",Elastic Rail Clip,B649,08-04-2025,13-04-2025,07-04-2030,OK,Performance nominal.
+SI25CB58500061,Wright Ltd,Elastic Rail Clip,B585,05-06-2025,10-06-2025,04-06-2030,OK,Performance nominal.
+TS25CB53000062,"Cortez, Marsh and Nelson",Elastic Rail Clip,B530,15-08-2025,22-08-2025,14-08-2030,OK,Performance nominal.
+SI25LB66600063,Wright Ltd,GFN Liner,B666,04-04-2025,18-04-2025,03-04-2030,OK,Performance nominal.
+SI25PB46300064,Wright Ltd,Rail Pad,B463,22-07-2025,01-08-2025,21-07-2030,OK,Performance nominal.
+RC25PB49200065,Kent-Young,Rail Pad,B492,01-03-2025,09-03-2025,28-02-2030,OK,Performance nominal.
+TS25CB16700066,"Cortez, Marsh and Nelson",Elastic Rail Clip,B167,27-05-2025,06-06-2025,26-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB24500067,"Wright, West and James",GFN Liner,B245,05-04-2025,14-04-2025,04-04-2030,OK,Performance nominal.
+SI25CB42400068,Wright Ltd,Elastic Rail Clip,B424,19-03-2025,27-03-2025,18-03-2030,OK,Performance nominal.
+RC25CB18300069,Kent-Young,Elastic Rail Clip,B183,19-06-2025,02-07-2025,18-06-2030,OK,Performance nominal.
+PP25CB70400070,"Wright, West and James",Elastic Rail Clip,B704,10-03-2025,15-03-2025,09-03-2030,OK,Performance nominal.
+SI25CB96400071,Wright Ltd,Elastic Rail Clip,B964,15-08-2025,27-08-2025,14-08-2030,OK,Performance nominal.
+PP25PB35300072,"Wright, West and James",Rail Pad,B353,05-03-2025,21-03-2025,04-03-2030,OK,Performance nominal.
+SI25CB94200073,Wright Ltd,Elastic Rail Clip,B942,06-08-2025,15-08-2025,05-08-2030,OK,Performance nominal.
+PP25PB18900074,"Wright, West and James",Rail Pad,B189,01-02-2025,13-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB66300075,"Cortez, Marsh and Nelson",GFN Liner,B663,28-01-2025,12-02-2025,27-01-2030,OK,Performance nominal.
+RC25PB72400076,Kent-Young,Rail Pad,B724,03-01-2025,18-01-2025,02-01-2030,OK,Performance nominal.
+PP25PB94800077,"Wright, West and James",Rail Pad,B948,21-06-2025,09-07-2025,20-06-2030,OK,Performance nominal.
+TS25CB30000078,"Cortez, Marsh and Nelson",Elastic Rail Clip,B300,11-08-2025,28-08-2025,10-08-2030,OK,Performance nominal.
+SI25LB78400079,Wright Ltd,GFN Liner,B784,10-06-2025,16-06-2025,09-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB74900080,Kent-Young,GFN Liner,B749,14-07-2025,31-07-2025,13-07-2030,OK,Performance nominal.
+PP25PB42000081,"Wright, West and James",Rail Pad,B420,06-02-2025,12-02-2025,05-02-2030,OK,Performance nominal.
+TS25LB86100082,"Cortez, Marsh and Nelson",GFN Liner,B861,14-06-2025,20-06-2025,13-06-2030,OK,Performance nominal.
+SI25PB92100083,Wright Ltd,Rail Pad,B921,04-02-2025,12-02-2025,03-02-2030,OK,Performance nominal.
+SI25PB37100084,Wright Ltd,Rail Pad,B371,21-07-2025,27-07-2025,20-07-2030,OK,Performance nominal.
+PP25PB60300085,"Wright, West and James",Rail Pad,B603,12-03-2025,20-03-2025,11-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB12500086,Wright Ltd,GFN Liner,B125,27-06-2025,06-07-2025,26-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB72500087,"Wright, West and James",Rail Pad,B725,07-06-2025,25-06-2025,06-06-2030,OK,Performance nominal.
+TS25LB15100088,"Cortez, Marsh and Nelson",GFN Liner,B151,21-07-2025,10-08-2025,20-07-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB95300089,Wright Ltd,Rail Pad,B953,20-07-2025,29-07-2025,19-07-2030,OK,Performance nominal.
+RC25CB19900090,Kent-Young,Elastic Rail Clip,B199,19-07-2025,30-07-2025,18-07-2030,OK,Performance nominal.
+PP25LB36300091,"Wright, West and James",GFN Liner,B363,08-04-2025,21-04-2025,07-04-2030,OK,Performance nominal.
+SI25PB69100092,Wright Ltd,Rail Pad,B691,15-04-2025,27-04-2025,14-04-2030,OK,Performance nominal.
+SI25CB35200093,Wright Ltd,Elastic Rail Clip,B352,24-04-2025,12-05-2025,23-04-2030,OK,Performance nominal.
+RC25LB58500094,Kent-Young,GFN Liner,B585,04-06-2025,11-06-2025,03-06-2030,OK,Performance nominal.
+TS25PB59600095,"Cortez, Marsh and Nelson",Rail Pad,B596,08-02-2025,24-02-2025,07-02-2030,OK,Performance nominal.
+PP25CB83800096,"Wright, West and James",Elastic Rail Clip,B838,26-04-2025,13-05-2025,25-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB99200097,Wright Ltd,Elastic Rail Clip,B992,14-04-2025,19-04-2025,13-04-2030,OK,Performance nominal.
+SI25CB70500098,Wright Ltd,Elastic Rail Clip,B705,15-08-2025,04-09-2025,14-08-2030,OK,Performance nominal.
+TS25LB60200099,"Cortez, Marsh and Nelson",GFN Liner,B602,18-06-2025,23-06-2025,17-06-2030,OK,Performance nominal.
+TS25CB23800100,"Cortez, Marsh and Nelson",Elastic Rail Clip,B238,18-06-2025,29-06-2025,17-06-2030,OK,Performance nominal.
+SI25LB15100101,Wright Ltd,GFN Liner,B151,11-03-2025,26-03-2025,10-03-2030,OK,Performance nominal.
+SI25LB17400102,Wright Ltd,GFN Liner,B174,25-05-2025,06-06-2025,24-05-2030,OK,Performance nominal.
+SI25PB91500103,Wright Ltd,Rail Pad,B915,09-05-2025,28-05-2025,08-05-2030,OK,Performance nominal.
+RC25PB20400104,Kent-Young,Rail Pad,B204,06-04-2025,15-04-2025,05-04-2030,OK,Performance nominal.
+PP25PB50900105,"Wright, West and James",Rail Pad,B509,11-08-2025,24-08-2025,10-08-2030,OK,Performance nominal.
+TS25LB90700106,"Cortez, Marsh and Nelson",GFN Liner,B907,27-04-2025,11-05-2025,26-04-2030,OK,Performance nominal.
+SI25CB40400107,Wright Ltd,Elastic Rail Clip,B404,13-02-2025,20-02-2025,12-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB66300108,Kent-Young,GFN Liner,B663,20-07-2025,09-08-2025,19-07-2030,OK,Performance nominal.
+SI25CB80700109,Wright Ltd,Elastic Rail Clip,B807,23-05-2025,03-06-2025,22-05-2030,OK,Performance nominal.
+TS25CB18000110,"Cortez, Marsh and Nelson",Elastic Rail Clip,B180,25-07-2025,07-08-2025,24-07-2030,OK,Performance nominal.
+TS25CB28600111,"Cortez, Marsh and Nelson",Elastic Rail Clip,B286,04-04-2025,10-04-2025,03-04-2030,OK,Performance nominal.
+PP25PB10900112,"Wright, West and James",Rail Pad,B109,22-05-2025,05-06-2025,21-05-2030,OK,Performance nominal.
+SI25LB15200113,Wright Ltd,GFN Liner,B152,02-02-2025,17-02-2025,01-02-2030,OK,Performance nominal.
+TS25LB89800114,"Cortez, Marsh and Nelson",GFN Liner,B898,28-07-2025,17-08-2025,27-07-2030,OK,Performance nominal.
+PP25PB84400115,"Wright, West and James",Rail Pad,B844,03-07-2025,11-07-2025,02-07-2030,OK,Performance nominal.
+SI25PB87700116,Wright Ltd,Rail Pad,B877,14-01-2025,25-01-2025,13-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB21900117,"Cortez, Marsh and Nelson",Rail Pad,B219,15-08-2025,22-08-2025,14-08-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB85800118,"Cortez, Marsh and Nelson",GFN Liner,B858,17-03-2025,31-03-2025,16-03-2030,OK,Performance nominal.
+TS25CB49000119,"Cortez, Marsh and Nelson",Elastic Rail Clip,B490,15-08-2025,23-08-2025,14-08-2030,OK,Performance nominal.
+RC25LB65000120,Kent-Young,GFN Liner,B650,10-01-2025,22-01-2025,09-01-2030,OK,Performance nominal.
+TS25CB60000121,"Cortez, Marsh and Nelson",Elastic Rail Clip,B600,22-02-2025,06-03-2025,21-02-2030,OK,Performance nominal.
+TS25LB99200122,"Cortez, Marsh and Nelson",GFN Liner,B992,12-02-2025,26-02-2025,11-02-2030,OK,Performance nominal.
+PP25CB19400123,"Wright, West and James",Elastic Rail Clip,B194,10-06-2025,20-06-2025,09-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB37300124,"Wright, West and James",Rail Pad,B373,26-05-2025,07-06-2025,25-05-2030,OK,Performance nominal.
+SI25LB80600125,Wright Ltd,GFN Liner,B806,11-06-2025,17-06-2025,10-06-2030,OK,Performance nominal.
+RC25PB58100126,Kent-Young,Rail Pad,B581,07-04-2025,25-04-2025,06-04-2030,OK,Performance nominal.
+PP25CB35800127,"Wright, West and James",Elastic Rail Clip,B358,26-02-2025,14-03-2025,25-02-2030,OK,Performance nominal.
+TS25PB70700128,"Cortez, Marsh and Nelson",Rail Pad,B707,14-05-2025,23-05-2025,13-05-2030,OK,Performance nominal.
+RC25PB25500129,Kent-Young,Rail Pad,B255,28-07-2025,15-08-2025,27-07-2030,OK,Performance nominal.
+PP25PB50000130,"Wright, West and James",Rail Pad,B500,20-06-2025,04-07-2025,19-06-2030,OK,Performance nominal.
+SI25PB14400131,Wright Ltd,Rail Pad,B144,08-04-2025,28-04-2025,07-04-2030,OK,Performance nominal.
+PP25CB10400132,"Wright, West and James",Elastic Rail Clip,B104,23-07-2025,08-08-2025,22-07-2030,OK,Performance nominal.
+TS25CB63200133,"Cortez, Marsh and Nelson",Elastic Rail Clip,B632,10-08-2025,21-08-2025,09-08-2030,OK,Performance nominal.
+SI25LB61800134,Wright Ltd,GFN Liner,B618,20-07-2025,02-08-2025,19-07-2030,OK,Performance nominal.
+SI25PB86100135,Wright Ltd,Rail Pad,B861,06-06-2025,15-06-2025,05-06-2030,OK,Performance nominal.
+RC25PB27300136,Kent-Young,Rail Pad,B273,13-08-2025,21-08-2025,12-08-2030,OK,Performance nominal.
+PP25CB16800137,"Wright, West and James",Elastic Rail Clip,B168,01-02-2025,06-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB31000138,Wright Ltd,GFN Liner,B310,08-03-2025,19-03-2025,07-03-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB55400139,"Wright, West and James",GFN Liner,B554,06-06-2025,16-06-2025,05-06-2030,OK,Performance nominal.
+SI25PB21200140,Wright Ltd,Rail Pad,B212,20-04-2025,29-04-2025,19-04-2030,OK,Performance nominal.
+PP25LB30300141,"Wright, West and James",GFN Liner,B303,13-04-2025,22-04-2025,12-04-2030,OK,Performance nominal.
+SI25LB75900142,Wright Ltd,GFN Liner,B759,03-02-2025,19-02-2025,02-02-2030,OK,Performance nominal.
+TS25LB46100143,"Cortez, Marsh and Nelson",GFN Liner,B461,10-06-2025,28-06-2025,09-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB60300144,"Wright, West and James",Rail Pad,B603,15-06-2025,05-07-2025,14-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB44200145,Kent-Young,GFN Liner,B442,19-03-2025,31-03-2025,18-03-2030,OK,Performance nominal.
+SI25CB29600146,Wright Ltd,Elastic Rail Clip,B296,26-08-2025,06-09-2025,25-08-2030,OK,Performance nominal.
+PP25CB88200147,"Wright, West and James",Elastic Rail Clip,B882,22-06-2025,28-06-2025,21-06-2030,OK,Performance nominal.
+SI25CB66300148,Wright Ltd,Elastic Rail Clip,B663,20-02-2025,01-03-2025,19-02-2030,OK,Performance nominal.
+RC25PB38300149,Kent-Young,Rail Pad,B383,02-01-2025,18-01-2025,01-01-2030,OK,Performance nominal.
+RC25CB48400150,Kent-Young,Elastic Rail Clip,B484,11-04-2025,28-04-2025,10-04-2030,OK,Performance nominal.
+PP25PB83200151,"Wright, West and James",Rail Pad,B832,18-01-2025,04-02-2025,17-01-2030,OK,Performance nominal.
+PP25PB37600152,"Wright, West and James",Rail Pad,B376,14-01-2025,26-01-2025,13-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB27800153,"Cortez, Marsh and Nelson",Rail Pad,B278,09-07-2025,22-07-2025,08-07-2030,OK,Performance nominal.
+TS25PB35400154,"Cortez, Marsh and Nelson",Rail Pad,B354,24-08-2025,07-09-2025,23-08-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB20800155,Wright Ltd,Rail Pad,B208,26-08-2025,07-09-2025,25-08-2030,OK,Performance nominal.
+RC25PB10800156,Kent-Young,Rail Pad,B108,03-02-2025,18-02-2025,02-02-2030,OK,Performance nominal.
+SI25CB96200157,Wright Ltd,Elastic Rail Clip,B962,27-04-2025,04-05-2025,26-04-2030,OK,Performance nominal.
+TS25LB85100158,"Cortez, Marsh and Nelson",GFN Liner,B851,08-05-2025,17-05-2025,07-05-2030,OK,Performance nominal.
+SI25LB34400159,Wright Ltd,GFN Liner,B344,22-06-2025,03-07-2025,21-06-2030,OK,Performance nominal.
+SI25LB81400160,Wright Ltd,GFN Liner,B814,19-05-2025,26-05-2025,18-05-2030,OK,Performance nominal.
+RC25LB13600161,Kent-Young,GFN Liner,B136,24-01-2025,06-02-2025,23-01-2030,OK,Performance nominal.
+PP25CB37600162,"Wright, West and James",Elastic Rail Clip,B376,12-03-2025,28-03-2025,11-03-2030,OK,Performance nominal.
+PP25PB47700163,"Wright, West and James",Rail Pad,B477,12-04-2025,24-04-2025,11-04-2030,OK,Performance nominal.
+PP25PB41100164,"Wright, West and James",Rail Pad,B411,09-06-2025,20-06-2025,08-06-2030,OK,Performance nominal.
+RC25CB73300165,Kent-Young,Elastic Rail Clip,B733,03-08-2025,20-08-2025,02-08-2030,OK,Performance nominal.
+RC25PB82400166,Kent-Young,Rail Pad,B824,09-08-2025,24-08-2025,08-08-2030,OK,Performance nominal.
+RC25LB96200167,Kent-Young,GFN Liner,B962,26-06-2025,05-07-2025,25-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB71200168,Kent-Young,GFN Liner,B712,09-01-2025,18-01-2025,08-01-2030,OK,Performance nominal.
+PP25PB57700169,"Wright, West and James",Rail Pad,B577,17-03-2025,01-04-2025,16-03-2030,OK,Performance nominal.
+PP25LB82200170,"Wright, West and James",GFN Liner,B822,04-01-2025,21-01-2025,03-01-2030,OK,Performance nominal.
+SI25CB23200171,Wright Ltd,Elastic Rail Clip,B232,06-06-2025,16-06-2025,05-06-2030,OK,Performance nominal.
+PP25PB85500172,"Wright, West and James",Rail Pad,B855,20-06-2025,30-06-2025,19-06-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB28600173,"Cortez, Marsh and Nelson",Rail Pad,B286,21-08-2025,05-09-2025,20-08-2030,OK,Performance nominal.
+PP25LB78800174,"Wright, West and James",GFN Liner,B788,23-01-2025,07-02-2025,22-01-2030,OK,Performance nominal.
+RC25PB21900175,Kent-Young,Rail Pad,B219,22-08-2025,01-09-2025,21-08-2030,OK,Performance nominal.
+TS25PB94100176,"Cortez, Marsh and Nelson",Rail Pad,B941,14-02-2025,01-03-2025,13-02-2030,OK,Performance nominal.
+PP25CB76800177,"Wright, West and James",Elastic Rail Clip,B768,26-05-2025,12-06-2025,25-05-2030,OK,Performance nominal.
+TS25CB60200178,"Cortez, Marsh and Nelson",Elastic Rail Clip,B602,05-04-2025,15-04-2025,04-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB95500179,Wright Ltd,GFN Liner,B955,09-07-2025,29-07-2025,08-07-2030,OK,Performance nominal.
+RC25PB75200180,Kent-Young,Rail Pad,B752,04-01-2025,18-01-2025,03-01-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB74100181,Kent-Young,GFN Liner,B741,04-07-2025,19-07-2025,03-07-2030,OK,Performance nominal.
+SI25CB11900182,Wright Ltd,Elastic Rail Clip,B119,23-03-2025,10-04-2025,22-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB59400183,Kent-Young,Elastic Rail Clip,B594,17-07-2025,06-08-2025,16-07-2030,OK,Performance nominal.
+SI25LB14400184,Wright Ltd,GFN Liner,B144,15-02-2025,07-03-2025,14-02-2030,OK,Performance nominal.
+PP25CB58700185,"Wright, West and James",Elastic Rail Clip,B587,09-01-2025,20-01-2025,08-01-2030,OK,Performance nominal.
+TS25CB42700186,"Cortez, Marsh and Nelson",Elastic Rail Clip,B427,25-03-2025,05-04-2025,24-03-2030,OK,Performance nominal.
+SI25CB17900187,Wright Ltd,Elastic Rail Clip,B179,05-07-2025,18-07-2025,04-07-2030,OK,Performance nominal.
+TS25CB77300188,"Cortez, Marsh and Nelson",Elastic Rail Clip,B773,26-06-2025,06-07-2025,25-06-2030,OK,Performance nominal.
+PP25PB41900189,"Wright, West and James",Rail Pad,B419,26-07-2025,13-08-2025,25-07-2030,OK,Performance nominal.
+SI25LB73900190,Wright Ltd,GFN Liner,B739,10-07-2025,19-07-2025,09-07-2030,OK,Performance nominal.
+RC25CB46000191,Kent-Young,Elastic Rail Clip,B460,24-08-2025,06-09-2025,23-08-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB41400192,Wright Ltd,GFN Liner,B414,25-06-2025,13-07-2025,24-06-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB50800193,"Cortez, Marsh and Nelson",Elastic Rail Clip,B508,09-04-2025,18-04-2025,08-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB91700194,Wright Ltd,Rail Pad,B917,16-05-2025,05-06-2025,15-05-2030,OK,Performance nominal.
+RC25LB61800195,Kent-Young,GFN Liner,B618,01-04-2025,07-04-2025,31-03-2030,OK,Performance nominal.
+TS25LB62200196,"Cortez, Marsh and Nelson",GFN Liner,B622,05-08-2025,22-08-2025,04-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB77100197,Kent-Young,Rail Pad,B771,23-07-2025,30-07-2025,22-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB79300198,"Wright, West and James",Rail Pad,B793,26-06-2025,04-07-2025,25-06-2030,OK,Performance nominal.
+SI25PB19800199,Wright Ltd,Rail Pad,B198,24-07-2025,02-08-2025,23-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB43400200,"Wright, West and James",GFN Liner,B434,26-07-2025,13-08-2025,25-07-2030,OK,Performance nominal.
+TS25LB38700201,"Cortez, Marsh and Nelson",GFN Liner,B387,21-08-2025,07-09-2025,20-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB33800202,Kent-Young,Rail Pad,B338,18-04-2025,24-04-2025,17-04-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB88300203,"Cortez, Marsh and Nelson",GFN Liner,B883,16-07-2025,26-07-2025,15-07-2030,OK,Performance nominal.
+SI25LB92500204,Wright Ltd,GFN Liner,B925,20-08-2025,08-09-2025,19-08-2030,OK,Performance nominal.
+TS25LB47600205,"Cortez, Marsh and Nelson",GFN Liner,B476,13-04-2025,26-04-2025,12-04-2030,OK,Performance nominal.
+SI25LB15100206,Wright Ltd,GFN Liner,B151,16-08-2025,31-08-2025,15-08-2030,OK,Performance nominal.
+PP25LB84500207,"Wright, West and James",GFN Liner,B845,08-06-2025,22-06-2025,07-06-2030,OK,Performance nominal.
+PP25LB30100208,"Wright, West and James",GFN Liner,B301,16-03-2025,26-03-2025,15-03-2030,OK,Performance nominal.
+SI25LB16200209,Wright Ltd,GFN Liner,B162,21-03-2025,28-03-2025,20-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB33800210,"Cortez, Marsh and Nelson",GFN Liner,B338,04-08-2025,18-08-2025,03-08-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB18000211,"Wright, West and James",Rail Pad,B180,03-04-2025,19-04-2025,02-04-2030,OK,Performance nominal.
+SI25CB29500212,Wright Ltd,Elastic Rail Clip,B295,12-08-2025,17-08-2025,11-08-2030,OK,Performance nominal.
+SI25LB24500213,Wright Ltd,GFN Liner,B245,28-01-2025,03-02-2025,27-01-2030,OK,Performance nominal.
+PP25CB15800214,"Wright, West and James",Elastic Rail Clip,B158,26-08-2025,09-09-2025,25-08-2030,OK,Performance nominal.
+TS25PB81500215,"Cortez, Marsh and Nelson",Rail Pad,B815,27-03-2025,02-04-2025,26-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB26400216,"Cortez, Marsh and Nelson",Elastic Rail Clip,B264,20-08-2025,30-08-2025,19-08-2030,OK,Performance nominal.
+RC25PB87900217,Kent-Young,Rail Pad,B879,01-06-2025,07-06-2025,31-05-2030,OK,Performance nominal.
+RC25LB71300218,Kent-Young,GFN Liner,B713,12-08-2025,26-08-2025,11-08-2030,OK,Performance nominal.
+TS25PB99300219,"Cortez, Marsh and Nelson",Rail Pad,B993,22-02-2025,11-03-2025,21-02-2030,OK,Performance nominal.
+PP25CB83900220,"Wright, West and James",Elastic Rail Clip,B839,06-05-2025,20-05-2025,05-05-2030,OK,Performance nominal.
+SI25PB11800221,Wright Ltd,Rail Pad,B118,24-04-2025,08-05-2025,23-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB62500222,"Wright, West and James",Elastic Rail Clip,B625,04-03-2025,09-03-2025,03-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB27100223,"Cortez, Marsh and Nelson",Rail Pad,B271,15-08-2025,03-09-2025,14-08-2030,OK,Performance nominal.
+SI25CB56400224,Wright Ltd,Elastic Rail Clip,B564,16-05-2025,01-06-2025,15-05-2030,OK,Performance nominal.
+SI25LB37800225,Wright Ltd,GFN Liner,B378,15-06-2025,29-06-2025,14-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB34600226,Kent-Young,Elastic Rail Clip,B346,27-08-2025,03-09-2025,26-08-2030,OK,Performance nominal.
+SI25PB48600227,Wright Ltd,Rail Pad,B486,15-02-2025,21-02-2025,14-02-2030,OK,Performance nominal.
+RC25LB46200228,Kent-Young,GFN Liner,B462,03-05-2025,19-05-2025,02-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB32000229,"Wright, West and James",Elastic Rail Clip,B320,16-02-2025,04-03-2025,15-02-2030,OK,Performance nominal.
+PP25LB78700230,"Wright, West and James",GFN Liner,B787,20-07-2025,04-08-2025,19-07-2030,OK,Performance nominal.
+PP25PB86600231,"Wright, West and James",Rail Pad,B866,15-07-2025,02-08-2025,14-07-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB90400232,"Cortez, Marsh and Nelson",Elastic Rail Clip,B904,25-08-2025,10-09-2025,24-08-2030,OK,Performance nominal.
+TS25PB43600233,"Cortez, Marsh and Nelson",Rail Pad,B436,04-08-2025,15-08-2025,03-08-2030,OK,Performance nominal.
+RC25CB30400234,Kent-Young,Elastic Rail Clip,B304,03-04-2025,10-04-2025,02-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB25500235,Kent-Young,Elastic Rail Clip,B255,04-07-2025,15-07-2025,03-07-2030,OK,Performance nominal.
+TS25CB24300236,"Cortez, Marsh and Nelson",Elastic Rail Clip,B243,22-02-2025,08-03-2025,21-02-2030,OK,Performance nominal.
+SI25CB87300237,Wright Ltd,Elastic Rail Clip,B873,10-01-2025,26-01-2025,09-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB63300238,"Cortez, Marsh and Nelson",GFN Liner,B633,22-08-2025,11-09-2025,21-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB30200239,Kent-Young,Rail Pad,B302,03-02-2025,09-02-2025,02-02-2030,OK,Performance nominal.
+TS25CB98600240,"Cortez, Marsh and Nelson",Elastic Rail Clip,B986,16-06-2025,29-06-2025,15-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB33000241,Wright Ltd,GFN Liner,B330,27-01-2025,01-02-2025,26-01-2030,OK,Performance nominal.
+TS25LB95100242,"Cortez, Marsh and Nelson",GFN Liner,B951,07-03-2025,20-03-2025,06-03-2030,OK,Performance nominal.
+SI25CB69000243,Wright Ltd,Elastic Rail Clip,B690,28-06-2025,16-07-2025,27-06-2030,OK,Performance nominal.
+SI25CB14500244,Wright Ltd,Elastic Rail Clip,B145,14-04-2025,30-04-2025,13-04-2030,OK,Performance nominal.
+TS25PB26700245,"Cortez, Marsh and Nelson",Rail Pad,B267,06-01-2025,24-01-2025,05-01-2030,OK,Performance nominal.
+TS25CB21500246,"Cortez, Marsh and Nelson",Elastic Rail Clip,B215,06-07-2025,12-07-2025,05-07-2030,OK,Performance nominal.
+PP25LB12400247,"Wright, West and James",GFN Liner,B124,23-08-2025,28-08-2025,22-08-2030,OK,Performance nominal.
+PP25CB14600248,"Wright, West and James",Elastic Rail Clip,B146,10-08-2025,16-08-2025,09-08-2030,OK,Performance nominal.
+RC25PB75800249,Kent-Young,Rail Pad,B758,05-05-2025,21-05-2025,04-05-2030,OK,Performance nominal.
+SI25CB50600250,Wright Ltd,Elastic Rail Clip,B506,22-02-2025,06-03-2025,21-02-2030,OK,Performance nominal.
+TS25LB74200251,"Cortez, Marsh and Nelson",GFN Liner,B742,15-04-2025,28-04-2025,14-04-2030,OK,Performance nominal.
+RC25PB52100252,Kent-Young,Rail Pad,B521,25-08-2025,09-09-2025,24-08-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB35400253,Wright Ltd,Elastic Rail Clip,B354,11-04-2025,26-04-2025,10-04-2030,OK,Performance nominal.
+PP25CB92200254,"Wright, West and James",Elastic Rail Clip,B922,27-08-2025,03-09-2025,26-08-2030,OK,Performance nominal.
+PP25CB56300255,"Wright, West and James",Elastic Rail Clip,B563,02-08-2025,13-08-2025,01-08-2030,OK,Performance nominal.
+PP25LB26500256,"Wright, West and James",GFN Liner,B265,20-03-2025,29-03-2025,19-03-2030,OK,Performance nominal.
+TS25CB76500257,"Cortez, Marsh and Nelson",Elastic Rail Clip,B765,04-07-2025,17-07-2025,03-07-2030,OK,Performance nominal.
+SI25CB12800258,Wright Ltd,Elastic Rail Clip,B128,15-01-2025,24-01-2025,14-01-2030,OK,Performance nominal.
+RC25LB49700259,Kent-Young,GFN Liner,B497,09-06-2025,15-06-2025,08-06-2030,OK,Performance nominal.
+TS25LB32700260,"Cortez, Marsh and Nelson",GFN Liner,B327,21-02-2025,28-02-2025,20-02-2030,OK,Performance nominal.
+RC25LB16400261,Kent-Young,GFN Liner,B164,08-07-2025,16-07-2025,07-07-2030,OK,Performance nominal.
+TS25PB88200262,"Cortez, Marsh and Nelson",Rail Pad,B882,06-05-2025,23-05-2025,05-05-2030,OK,Performance nominal.
+TS25CB22200263,"Cortez, Marsh and Nelson",Elastic Rail Clip,B222,04-04-2025,20-04-2025,03-04-2030,OK,Performance nominal.
+SI25LB93200264,Wright Ltd,GFN Liner,B932,11-03-2025,19-03-2025,10-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB55700265,"Cortez, Marsh and Nelson",Rail Pad,B557,13-02-2025,24-02-2025,12-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB96400266,Wright Ltd,GFN Liner,B964,17-03-2025,24-03-2025,16-03-2030,OK,Performance nominal.
+SI25PB92600267,Wright Ltd,Rail Pad,B926,14-05-2025,20-05-2025,13-05-2030,OK,Performance nominal.
+TS25LB86800268,"Cortez, Marsh and Nelson",GFN Liner,B868,23-06-2025,13-07-2025,22-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB35700269,Kent-Young,Rail Pad,B357,07-05-2025,19-05-2025,06-05-2030,OK,Performance nominal.
+SI25PB13200270,Wright Ltd,Rail Pad,B132,27-06-2025,12-07-2025,26-06-2030,OK,Performance nominal.
+RC25CB54900271,Kent-Young,Elastic Rail Clip,B549,14-08-2025,27-08-2025,13-08-2030,OK,Performance nominal.
+RC25PB76900272,Kent-Young,Rail Pad,B769,20-08-2025,07-09-2025,19-08-2030,OK,Performance nominal.
+SI25LB67500273,Wright Ltd,GFN Liner,B675,14-02-2025,26-02-2025,13-02-2030,OK,Performance nominal.
+RC25LB10700274,Kent-Young,GFN Liner,B107,05-07-2025,22-07-2025,04-07-2030,OK,Performance nominal.
+PP25LB17300275,"Wright, West and James",GFN Liner,B173,06-01-2025,26-01-2025,05-01-2030,OK,Performance nominal.
+TS25CB41200276,"Cortez, Marsh and Nelson",Elastic Rail Clip,B412,06-03-2025,15-03-2025,05-03-2030,OK,Performance nominal.
+RC25CB13900277,Kent-Young,Elastic Rail Clip,B139,24-08-2025,12-09-2025,23-08-2030,OK,Performance nominal.
+TS25CB42000278,"Cortez, Marsh and Nelson",Elastic Rail Clip,B420,11-04-2025,28-04-2025,10-04-2030,OK,Performance nominal.
+SI25PB23900279,Wright Ltd,Rail Pad,B239,20-08-2025,01-09-2025,19-08-2030,OK,Performance nominal.
+RC25CB98500280,Kent-Young,Elastic Rail Clip,B985,03-03-2025,09-03-2025,02-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB61500281,Wright Ltd,Elastic Rail Clip,B615,01-04-2025,14-04-2025,31-03-2030,OK,Performance nominal.
+SI25LB81000282,Wright Ltd,GFN Liner,B810,13-04-2025,22-04-2025,12-04-2030,OK,Performance nominal.
+TS25CB91800283,"Cortez, Marsh and Nelson",Elastic Rail Clip,B918,07-04-2025,24-04-2025,06-04-2030,OK,Performance nominal.
+RC25LB12700284,Kent-Young,GFN Liner,B127,20-06-2025,02-07-2025,19-06-2030,OK,Performance nominal.
+SI25CB59300285,Wright Ltd,Elastic Rail Clip,B593,07-05-2025,23-05-2025,06-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB49700286,"Wright, West and James",Rail Pad,B497,07-03-2025,15-03-2025,06-03-2030,OK,Performance nominal.
+RC25CB78900287,Kent-Young,Elastic Rail Clip,B789,17-08-2025,29-08-2025,16-08-2030,OK,Performance nominal.
+TS25LB63800288,"Cortez, Marsh and Nelson",GFN Liner,B638,07-05-2025,25-05-2025,06-05-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB75000289,Kent-Young,Elastic Rail Clip,B750,01-07-2025,21-07-2025,30-06-2030,OK,Performance nominal.
+SI25LB98800290,Wright Ltd,GFN Liner,B988,03-01-2025,15-01-2025,02-01-2030,OK,Performance nominal.
+TS25LB97700291,"Cortez, Marsh and Nelson",GFN Liner,B977,25-01-2025,05-02-2025,24-01-2030,OK,Performance nominal.
+RC25PB61300292,Kent-Young,Rail Pad,B613,24-07-2025,03-08-2025,23-07-2030,OK,Performance nominal.
+SI25CB93300293,Wright Ltd,Elastic Rail Clip,B933,07-07-2025,13-07-2025,06-07-2030,OK,Performance nominal.
+RC25PB69400294,Kent-Young,Rail Pad,B694,25-08-2025,08-09-2025,24-08-2030,OK,Performance nominal.
+TS25PB41900295,"Cortez, Marsh and Nelson",Rail Pad,B419,06-03-2025,23-03-2025,05-03-2030,OK,Performance nominal.
+RC25PB51600296,Kent-Young,Rail Pad,B516,21-01-2025,06-02-2025,20-01-2030,OK,Performance nominal.
+TS25CB69800297,"Cortez, Marsh and Nelson",Elastic Rail Clip,B698,19-08-2025,02-09-2025,18-08-2030,OK,Performance nominal.
+SI25LB50100298,Wright Ltd,GFN Liner,B501,27-03-2025,05-04-2025,26-03-2030,OK,Performance nominal.
+PP25CB75600299,"Wright, West and James",Elastic Rail Clip,B756,05-08-2025,24-08-2025,04-08-2030,OK,Performance nominal.
+TS25LB89600300,"Cortez, Marsh and Nelson",GFN Liner,B896,27-06-2025,12-07-2025,26-06-2030,OK,Performance nominal.
+RC25LB77400301,Kent-Young,GFN Liner,B774,19-01-2025,26-01-2025,18-01-2030,OK,Performance nominal.
+RC25PB36800302,Kent-Young,Rail Pad,B368,19-05-2025,07-06-2025,18-05-2030,OK,Performance nominal.
+TS25LB90500303,"Cortez, Marsh and Nelson",GFN Liner,B905,17-04-2025,28-04-2025,16-04-2030,OK,Performance nominal.
+SI25LB76100304,Wright Ltd,GFN Liner,B761,06-03-2025,13-03-2025,05-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB80000305,Kent-Young,Rail Pad,B800,28-01-2025,12-02-2025,27-01-2030,OK,Performance nominal.
+PP25CB92300306,"Wright, West and James",Elastic Rail Clip,B923,11-04-2025,28-04-2025,10-04-2030,OK,Performance nominal.
+SI25LB24800307,Wright Ltd,GFN Liner,B248,01-04-2025,11-04-2025,31-03-2030,OK,Performance nominal.
+SI25PB56500308,Wright Ltd,Rail Pad,B565,13-03-2025,18-03-2025,12-03-2030,OK,Performance nominal.
+SI25PB42500309,Wright Ltd,Rail Pad,B425,11-04-2025,01-05-2025,10-04-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB62000310,"Cortez, Marsh and Nelson",Elastic Rail Clip,B620,10-01-2025,17-01-2025,09-01-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB59700311,"Wright, West and James",Rail Pad,B597,09-08-2025,15-08-2025,08-08-2030,OK,Performance nominal.
+PP25CB87500312,"Wright, West and James",Elastic Rail Clip,B875,09-05-2025,20-05-2025,08-05-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB91700313,"Cortez, Marsh and Nelson",GFN Liner,B917,20-01-2025,27-01-2025,19-01-2030,OK,Performance nominal.
+SI25PB78100314,Wright Ltd,Rail Pad,B781,15-04-2025,05-05-2025,14-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB21700315,"Wright, West and James",Rail Pad,B217,14-06-2025,02-07-2025,13-06-2030,OK,Performance nominal.
+PP25PB75000316,"Wright, West and James",Rail Pad,B750,25-05-2025,05-06-2025,24-05-2030,OK,Performance nominal.
+RC25PB23900317,Kent-Young,Rail Pad,B239,03-03-2025,19-03-2025,02-03-2030,OK,Performance nominal.
+PP25PB44100318,"Wright, West and James",Rail Pad,B441,08-08-2025,20-08-2025,07-08-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB68500319,"Cortez, Marsh and Nelson",Rail Pad,B685,20-06-2025,30-06-2025,19-06-2030,OK,Performance nominal.
+SI25PB29600320,Wright Ltd,Rail Pad,B296,23-03-2025,02-04-2025,22-03-2030,OK,Performance nominal.
+RC25CB84700321,Kent-Young,Elastic Rail Clip,B847,15-07-2025,25-07-2025,14-07-2030,OK,Performance nominal.
+TS25LB85200322,"Cortez, Marsh and Nelson",GFN Liner,B852,27-04-2025,16-05-2025,26-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB80200323,"Wright, West and James",GFN Liner,B802,18-01-2025,27-01-2025,17-01-2030,OK,Performance nominal.
+RC25CB67400324,Kent-Young,Elastic Rail Clip,B674,18-03-2025,29-03-2025,17-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB15300325,Kent-Young,Rail Pad,B153,11-04-2025,24-04-2025,10-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB96800326,Kent-Young,GFN Liner,B968,27-02-2025,10-03-2025,26-02-2030,OK,Performance nominal.
+SI25CB41600327,Wright Ltd,Elastic Rail Clip,B416,05-06-2025,16-06-2025,04-06-2030,OK,Performance nominal.
+TS25PB25600328,"Cortez, Marsh and Nelson",Rail Pad,B256,01-02-2025,10-02-2025,31-01-2030,OK,Performance nominal.
+SI25PB72100329,Wright Ltd,Rail Pad,B721,23-03-2025,04-04-2025,22-03-2030,OK,Performance nominal.
+RC25CB35700330,Kent-Young,Elastic Rail Clip,B357,22-07-2025,06-08-2025,21-07-2030,OK,Performance nominal.
+TS25LB83900331,"Cortez, Marsh and Nelson",GFN Liner,B839,23-06-2025,12-07-2025,22-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB39500332,Kent-Young,GFN Liner,B395,11-03-2025,30-03-2025,10-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB26100333,Wright Ltd,Rail Pad,B261,04-04-2025,14-04-2025,03-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB81600334,Wright Ltd,Rail Pad,B816,03-08-2025,18-08-2025,02-08-2030,OK,Performance nominal.
+PP25CB58200335,"Wright, West and James",Elastic Rail Clip,B582,14-01-2025,26-01-2025,13-01-2030,OK,Performance nominal.
+TS25CB48700336,"Cortez, Marsh and Nelson",Elastic Rail Clip,B487,04-04-2025,13-04-2025,03-04-2030,OK,Performance nominal.
+TS25CB91300337,"Cortez, Marsh and Nelson",Elastic Rail Clip,B913,21-08-2025,04-09-2025,20-08-2030,OK,Performance nominal.
+RC25CB80400338,Kent-Young,Elastic Rail Clip,B804,18-06-2025,01-07-2025,17-06-2030,OK,Performance nominal.
+TS25LB17900339,"Cortez, Marsh and Nelson",GFN Liner,B179,27-08-2025,15-09-2025,26-08-2030,OK,Performance nominal.
+TS25PB75100340,"Cortez, Marsh and Nelson",Rail Pad,B751,01-07-2025,20-07-2025,30-06-2030,OK,Performance nominal.
+TS25LB18100341,"Cortez, Marsh and Nelson",GFN Liner,B181,22-01-2025,05-02-2025,21-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB63400342,Wright Ltd,Elastic Rail Clip,B634,15-06-2025,30-06-2025,14-06-2030,OK,Performance nominal.
+PP25PB51900343,"Wright, West and James",Rail Pad,B519,06-07-2025,24-07-2025,05-07-2030,OK,Performance nominal.
+RC25PB64900344,Kent-Young,Rail Pad,B649,11-04-2025,17-04-2025,10-04-2030,OK,Performance nominal.
+PP25PB20200345,"Wright, West and James",Rail Pad,B202,12-01-2025,23-01-2025,11-01-2030,OK,Performance nominal.
+PP25LB63300346,"Wright, West and James",GFN Liner,B633,10-06-2025,29-06-2025,09-06-2030,OK,Performance nominal.
+TS25CB45700347,"Cortez, Marsh and Nelson",Elastic Rail Clip,B457,05-04-2025,25-04-2025,04-04-2030,OK,Performance nominal.
+SI25LB37100348,Wright Ltd,GFN Liner,B371,11-07-2025,17-07-2025,10-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB82800349,"Wright, West and James",Rail Pad,B828,21-06-2025,05-07-2025,20-06-2030,OK,Performance nominal.
+TS25PB95500350,"Cortez, Marsh and Nelson",Rail Pad,B955,03-03-2025,10-03-2025,02-03-2030,OK,Performance nominal.
+PP25LB99900351,"Wright, West and James",GFN Liner,B999,23-01-2025,11-02-2025,22-01-2030,OK,Performance nominal.
+TS25PB64000352,"Cortez, Marsh and Nelson",Rail Pad,B640,22-05-2025,28-05-2025,21-05-2030,OK,Performance nominal.
+RC25CB42700353,Kent-Young,Elastic Rail Clip,B427,22-06-2025,02-07-2025,21-06-2030,OK,Performance nominal.
+RC25CB41500354,Kent-Young,Elastic Rail Clip,B415,11-08-2025,27-08-2025,10-08-2030,OK,Performance nominal.
+RC25CB31100355,Kent-Young,Elastic Rail Clip,B311,27-01-2025,01-02-2025,26-01-2030,OK,Performance nominal.
+SI25PB72800356,Wright Ltd,Rail Pad,B728,17-06-2025,05-07-2025,16-06-2030,OK,Performance nominal.
+RC25PB98100357,Kent-Young,Rail Pad,B981,07-01-2025,18-01-2025,06-01-2030,OK,Performance nominal.
+SI25PB34700358,Wright Ltd,Rail Pad,B347,13-02-2025,19-02-2025,12-02-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB25700359,"Wright, West and James",Rail Pad,B257,13-04-2025,01-05-2025,12-04-2030,OK,Performance nominal.
+TS25LB47600360,"Cortez, Marsh and Nelson",GFN Liner,B476,15-01-2025,25-01-2025,14-01-2030,OK,Performance nominal.
+TS25PB22500361,"Cortez, Marsh and Nelson",Rail Pad,B225,04-02-2025,23-02-2025,03-02-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB59100362,"Cortez, Marsh and Nelson",Rail Pad,B591,08-02-2025,14-02-2025,07-02-2030,OK,Performance nominal.
+RC25LB67900363,Kent-Young,GFN Liner,B679,11-07-2025,21-07-2025,10-07-2030,OK,Performance nominal.
+RC25LB67000364,Kent-Young,GFN Liner,B670,05-01-2025,22-01-2025,04-01-2030,OK,Performance nominal.
+PP25PB41700365,"Wright, West and James",Rail Pad,B417,27-03-2025,04-04-2025,26-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB33800366,Kent-Young,Elastic Rail Clip,B338,08-05-2025,19-05-2025,07-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB68800367,"Wright, West and James",GFN Liner,B688,15-05-2025,02-06-2025,14-05-2030,OK,Performance nominal.
+SI25CB76000368,Wright Ltd,Elastic Rail Clip,B760,20-08-2025,28-08-2025,19-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB53000369,Kent-Young,GFN Liner,B530,16-08-2025,05-09-2025,15-08-2030,OK,Performance nominal.
+PP25LB28200370,"Wright, West and James",GFN Liner,B282,01-07-2025,17-07-2025,30-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB42200371,"Wright, West and James",GFN Liner,B422,20-04-2025,28-04-2025,19-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB78900372,Wright Ltd,Rail Pad,B789,03-03-2025,09-03-2025,02-03-2030,OK,Performance nominal.
+TS25PB70900373,"Cortez, Marsh and Nelson",Rail Pad,B709,01-05-2025,21-05-2025,30-04-2030,OK,Performance nominal.
+RC25CB64100374,Kent-Young,Elastic Rail Clip,B641,19-03-2025,28-03-2025,18-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB67300375,Wright Ltd,Rail Pad,B673,01-01-2025,08-01-2025,31-12-2029,FLAGGED,High failure rate predicted for this batch.
+RC25LB85100376,Kent-Young,GFN Liner,B851,11-01-2025,27-01-2025,10-01-2030,OK,Performance nominal.
+PP25PB34000377,"Wright, West and James",Rail Pad,B340,19-04-2025,29-04-2025,18-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB93800378,Kent-Young,GFN Liner,B938,12-08-2025,21-08-2025,11-08-2030,OK,Performance nominal.
+SI25LB81600379,Wright Ltd,GFN Liner,B816,22-03-2025,06-04-2025,21-03-2030,OK,Performance nominal.
+SI25LB12600380,Wright Ltd,GFN Liner,B126,18-02-2025,09-03-2025,17-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB76500381,Wright Ltd,Rail Pad,B765,28-05-2025,08-06-2025,27-05-2030,OK,Performance nominal.
+RC25CB57600382,Kent-Young,Elastic Rail Clip,B576,04-02-2025,09-02-2025,03-02-2030,OK,Performance nominal.
+SI25LB51900383,Wright Ltd,GFN Liner,B519,02-03-2025,20-03-2025,01-03-2030,OK,Performance nominal.
+SI25PB81100384,Wright Ltd,Rail Pad,B811,19-06-2025,25-06-2025,18-06-2030,OK,Performance nominal.
+RC25CB50300385,Kent-Young,Elastic Rail Clip,B503,07-04-2025,17-04-2025,06-04-2030,OK,Performance nominal.
+PP25LB39700386,"Wright, West and James",GFN Liner,B397,20-01-2025,08-02-2025,19-01-2030,OK,Performance nominal.
+PP25CB55200387,"Wright, West and James",Elastic Rail Clip,B552,23-05-2025,11-06-2025,22-05-2030,OK,Performance nominal.
+TS25PB39500388,"Cortez, Marsh and Nelson",Rail Pad,B395,28-08-2025,03-09-2025,27-08-2030,OK,Performance nominal.
+RC25CB15700389,Kent-Young,Elastic Rail Clip,B157,28-02-2025,05-03-2025,27-02-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB84900390,"Wright, West and James",GFN Liner,B849,23-05-2025,31-05-2025,22-05-2030,OK,Performance nominal.
+TS25LB87300391,"Cortez, Marsh and Nelson",GFN Liner,B873,03-02-2025,16-02-2025,02-02-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB35500392,"Wright, West and James",Rail Pad,B355,23-07-2025,09-08-2025,22-07-2030,OK,Performance nominal.
+SI25PB93100393,Wright Ltd,Rail Pad,B931,10-07-2025,26-07-2025,09-07-2030,OK,Performance nominal.
+SI25LB56600394,Wright Ltd,GFN Liner,B566,07-06-2025,12-06-2025,06-06-2030,OK,Performance nominal.
+RC25PB61400395,Kent-Young,Rail Pad,B614,21-01-2025,09-02-2025,20-01-2030,OK,Performance nominal.
+PP25LB72500396,"Wright, West and James",GFN Liner,B725,21-07-2025,10-08-2025,20-07-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB50700397,"Cortez, Marsh and Nelson",Rail Pad,B507,21-01-2025,31-01-2025,20-01-2030,OK,Performance nominal.
+PP25PB56600398,"Wright, West and James",Rail Pad,B566,27-01-2025,10-02-2025,26-01-2030,OK,Performance nominal.
+SI25LB85600399,Wright Ltd,GFN Liner,B856,19-05-2025,27-05-2025,18-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB70400400,"Wright, West and James",Rail Pad,B704,28-04-2025,03-05-2025,27-04-2030,OK,Performance nominal.
+PP25PB18600401,"Wright, West and James",Rail Pad,B186,08-03-2025,16-03-2025,07-03-2030,OK,Performance nominal.
+PP25PB32900402,"Wright, West and James",Rail Pad,B329,12-05-2025,01-06-2025,11-05-2030,OK,Performance nominal.
+TS25LB41800403,"Cortez, Marsh and Nelson",GFN Liner,B418,05-08-2025,19-08-2025,04-08-2030,OK,Performance nominal.
+RC25LB34700404,Kent-Young,GFN Liner,B347,11-05-2025,24-05-2025,10-05-2030,OK,Performance nominal.
+PP25PB90500405,"Wright, West and James",Rail Pad,B905,14-07-2025,30-07-2025,13-07-2030,OK,Performance nominal.
+SI25PB87000406,Wright Ltd,Rail Pad,B870,17-02-2025,09-03-2025,16-02-2030,OK,Performance nominal.
+TS25LB72300407,"Cortez, Marsh and Nelson",GFN Liner,B723,14-05-2025,23-05-2025,13-05-2030,OK,Performance nominal.
+SI25LB85100408,Wright Ltd,GFN Liner,B851,25-08-2025,11-09-2025,24-08-2030,OK,Performance nominal.
+SI25PB55200409,Wright Ltd,Rail Pad,B552,09-05-2025,26-05-2025,08-05-2030,OK,Performance nominal.
+RC25LB13400410,Kent-Young,GFN Liner,B134,03-02-2025,17-02-2025,02-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB10300411,Kent-Young,GFN Liner,B103,23-01-2025,12-02-2025,22-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB12700412,"Cortez, Marsh and Nelson",Rail Pad,B127,08-03-2025,25-03-2025,07-03-2030,OK,Performance nominal.
+TS25CB13300413,"Cortez, Marsh and Nelson",Elastic Rail Clip,B133,11-06-2025,26-06-2025,10-06-2030,OK,Performance nominal.
+SI25CB57100414,Wright Ltd,Elastic Rail Clip,B571,27-04-2025,16-05-2025,26-04-2030,OK,Performance nominal.
+TS25PB80300415,"Cortez, Marsh and Nelson",Rail Pad,B803,27-02-2025,19-03-2025,26-02-2030,OK,Performance nominal.
+SI25CB76900416,Wright Ltd,Elastic Rail Clip,B769,10-05-2025,16-05-2025,09-05-2030,OK,Performance nominal.
+TS25LB72900417,"Cortez, Marsh and Nelson",GFN Liner,B729,08-08-2025,20-08-2025,07-08-2030,OK,Performance nominal.
+RC25PB11000418,Kent-Young,Rail Pad,B110,27-07-2025,16-08-2025,26-07-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB70300419,Wright Ltd,Elastic Rail Clip,B703,05-03-2025,18-03-2025,04-03-2030,OK,Performance nominal.
+PP25CB62700420,"Wright, West and James",Elastic Rail Clip,B627,09-07-2025,19-07-2025,08-07-2030,OK,Performance nominal.
+RC25PB98600421,Kent-Young,Rail Pad,B986,14-05-2025,30-05-2025,13-05-2030,OK,Performance nominal.
+RC25CB10000422,Kent-Young,Elastic Rail Clip,B100,07-06-2025,24-06-2025,06-06-2030,OK,Performance nominal.
+SI25LB63400423,Wright Ltd,GFN Liner,B634,25-04-2025,01-05-2025,24-04-2030,OK,Performance nominal.
+SI25CB31700424,Wright Ltd,Elastic Rail Clip,B317,06-05-2025,16-05-2025,05-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB79900425,"Wright, West and James",Rail Pad,B799,01-06-2025,08-06-2025,31-05-2030,OK,Performance nominal.
+RC25LB19700426,Kent-Young,GFN Liner,B197,27-04-2025,03-05-2025,26-04-2030,OK,Performance nominal.
+TS25CB35700427,"Cortez, Marsh and Nelson",Elastic Rail Clip,B357,05-01-2025,17-01-2025,04-01-2030,OK,Performance nominal.
+RC25LB82700428,Kent-Young,GFN Liner,B827,08-08-2025,17-08-2025,07-08-2030,OK,Performance nominal.
+PP25LB36200429,"Wright, West and James",GFN Liner,B362,03-05-2025,11-05-2025,02-05-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB57200430,Wright Ltd,Rail Pad,B572,05-04-2025,25-04-2025,04-04-2030,OK,Performance nominal.
+SI25CB36000431,Wright Ltd,Elastic Rail Clip,B360,06-04-2025,23-04-2025,05-04-2030,OK,Performance nominal.
+TS25CB75800432,"Cortez, Marsh and Nelson",Elastic Rail Clip,B758,16-08-2025,30-08-2025,15-08-2030,OK,Performance nominal.
+PP25PB84300433,"Wright, West and James",Rail Pad,B843,23-03-2025,31-03-2025,22-03-2030,OK,Performance nominal.
+SI25CB39900434,Wright Ltd,Elastic Rail Clip,B399,11-01-2025,17-01-2025,10-01-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB39400435,"Wright, West and James",GFN Liner,B394,04-05-2025,23-05-2025,03-05-2030,OK,Performance nominal.
+TS25LB33800436,"Cortez, Marsh and Nelson",GFN Liner,B338,27-08-2025,11-09-2025,26-08-2030,OK,Performance nominal.
+SI25LB25600437,Wright Ltd,GFN Liner,B256,08-07-2025,27-07-2025,07-07-2030,OK,Performance nominal.
+PP25LB51000438,"Wright, West and James",GFN Liner,B510,17-06-2025,01-07-2025,16-06-2030,OK,Performance nominal.
+SI25CB70600439,Wright Ltd,Elastic Rail Clip,B706,09-05-2025,15-05-2025,08-05-2030,OK,Performance nominal.
+TS25LB83100440,"Cortez, Marsh and Nelson",GFN Liner,B831,10-04-2025,24-04-2025,09-04-2030,OK,Performance nominal.
+SI25CB18300441,Wright Ltd,Elastic Rail Clip,B183,25-03-2025,10-04-2025,24-03-2030,OK,Performance nominal.
+RC25LB38200442,Kent-Young,GFN Liner,B382,04-04-2025,24-04-2025,03-04-2030,OK,Performance nominal.
+PP25PB72600443,"Wright, West and James",Rail Pad,B726,21-05-2025,03-06-2025,20-05-2030,OK,Performance nominal.
+SI25PB41800444,Wright Ltd,Rail Pad,B418,28-05-2025,09-06-2025,27-05-2030,OK,Performance nominal.
+TS25LB24100445,"Cortez, Marsh and Nelson",GFN Liner,B241,15-07-2025,03-08-2025,14-07-2030,OK,Performance nominal.
+RC25PB79500446,Kent-Young,Rail Pad,B795,02-04-2025,21-04-2025,01-04-2030,OK,Performance nominal.
+PP25LB16800447,"Wright, West and James",GFN Liner,B168,23-07-2025,28-07-2025,22-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB53000448,"Wright, West and James",GFN Liner,B530,18-01-2025,02-02-2025,17-01-2030,OK,Performance nominal.
+SI25LB69200449,Wright Ltd,GFN Liner,B692,28-08-2025,02-09-2025,27-08-2030,OK,Performance nominal.
+RC25LB61400450,Kent-Young,GFN Liner,B614,22-05-2025,31-05-2025,21-05-2030,OK,Performance nominal.
+RC25PB94900451,Kent-Young,Rail Pad,B949,13-06-2025,26-06-2025,12-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB66400452,Wright Ltd,Rail Pad,B664,21-03-2025,27-03-2025,20-03-2030,OK,Performance nominal.
+PP25PB73300453,"Wright, West and James",Rail Pad,B733,10-06-2025,21-06-2025,09-06-2030,OK,Performance nominal.
+RC25LB23900454,Kent-Young,GFN Liner,B239,06-01-2025,17-01-2025,05-01-2030,OK,Performance nominal.
+RC25CB67500455,Kent-Young,Elastic Rail Clip,B675,03-07-2025,14-07-2025,02-07-2030,OK,Performance nominal.
+SI25CB28500456,Wright Ltd,Elastic Rail Clip,B285,19-07-2025,28-07-2025,18-07-2030,OK,Performance nominal.
+PP25PB16700457,"Wright, West and James",Rail Pad,B167,01-02-2025,20-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB79500458,Wright Ltd,GFN Liner,B795,21-07-2025,10-08-2025,20-07-2030,OK,Performance nominal.
+RC25PB42300459,Kent-Young,Rail Pad,B423,06-04-2025,11-04-2025,05-04-2030,OK,Performance nominal.
+TS25LB63200460,"Cortez, Marsh and Nelson",GFN Liner,B632,03-08-2025,23-08-2025,02-08-2030,OK,Performance nominal.
+PP25CB97900461,"Wright, West and James",Elastic Rail Clip,B979,12-04-2025,01-05-2025,11-04-2030,OK,Performance nominal.
+SI25LB51900462,Wright Ltd,GFN Liner,B519,18-07-2025,25-07-2025,17-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB53900463,Kent-Young,Rail Pad,B539,06-02-2025,15-02-2025,05-02-2030,OK,Performance nominal.
+PP25CB33900464,"Wright, West and James",Elastic Rail Clip,B339,09-02-2025,14-02-2025,08-02-2030,OK,Performance nominal.
+PP25PB76600465,"Wright, West and James",Rail Pad,B766,09-04-2025,15-04-2025,08-04-2030,OK,Performance nominal.
+RC25LB64300466,Kent-Young,GFN Liner,B643,08-03-2025,22-03-2025,07-03-2030,OK,Performance nominal.
+RC25PB32100467,Kent-Young,Rail Pad,B321,08-07-2025,18-07-2025,07-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB93400468,"Wright, West and James",Elastic Rail Clip,B934,06-08-2025,17-08-2025,05-08-2030,OK,Performance nominal.
+SI25LB12100469,Wright Ltd,GFN Liner,B121,28-01-2025,04-02-2025,27-01-2030,OK,Performance nominal.
+PP25LB77800470,"Wright, West and James",GFN Liner,B778,05-07-2025,23-07-2025,04-07-2030,OK,Performance nominal.
+RC25PB10700471,Kent-Young,Rail Pad,B107,21-01-2025,01-02-2025,20-01-2030,OK,Performance nominal.
+PP25CB77600472,"Wright, West and James",Elastic Rail Clip,B776,01-02-2025,20-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB39500473,Kent-Young,Rail Pad,B395,02-02-2025,07-02-2025,01-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB71600474,Wright Ltd,Rail Pad,B716,24-08-2025,03-09-2025,23-08-2030,OK,Performance nominal.
+PP25LB48400475,"Wright, West and James",GFN Liner,B484,16-02-2025,05-03-2025,15-02-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB78100476,"Cortez, Marsh and Nelson",Elastic Rail Clip,B781,20-06-2025,27-06-2025,19-06-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB86500477,"Cortez, Marsh and Nelson",GFN Liner,B865,06-05-2025,26-05-2025,05-05-2030,OK,Performance nominal.
+RC25CB21600478,Kent-Young,Elastic Rail Clip,B216,16-06-2025,28-06-2025,15-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB32900479,"Wright, West and James",GFN Liner,B329,20-03-2025,09-04-2025,19-03-2030,OK,Performance nominal.
+PP25LB16100480,"Wright, West and James",GFN Liner,B161,18-04-2025,24-04-2025,17-04-2030,OK,Performance nominal.
+RC25PB85000481,Kent-Young,Rail Pad,B850,19-07-2025,02-08-2025,18-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB40400482,Kent-Young,Elastic Rail Clip,B404,15-07-2025,31-07-2025,14-07-2030,OK,Performance nominal.
+SI25LB93000483,Wright Ltd,GFN Liner,B930,06-05-2025,18-05-2025,05-05-2030,OK,Performance nominal.
+TS25CB33300484,"Cortez, Marsh and Nelson",Elastic Rail Clip,B333,13-04-2025,03-05-2025,12-04-2030,OK,Performance nominal.
+PP25LB90500485,"Wright, West and James",GFN Liner,B905,10-01-2025,17-01-2025,09-01-2030,OK,Performance nominal.
+TS25PB90300486,"Cortez, Marsh and Nelson",Rail Pad,B903,09-02-2025,21-02-2025,08-02-2030,OK,Performance nominal.
+RC25CB43700487,Kent-Young,Elastic Rail Clip,B437,13-01-2025,30-01-2025,12-01-2030,OK,Performance nominal.
+PP25LB12000488,"Wright, West and James",GFN Liner,B120,24-03-2025,29-03-2025,23-03-2030,OK,Performance nominal.
+PP25CB28600489,"Wright, West and James",Elastic Rail Clip,B286,20-08-2025,09-09-2025,19-08-2030,OK,Performance nominal.
+RC25CB40600490,Kent-Young,Elastic Rail Clip,B406,06-05-2025,20-05-2025,05-05-2030,OK,Performance nominal.
+SI25PB56600491,Wright Ltd,Rail Pad,B566,20-07-2025,04-08-2025,19-07-2030,OK,Performance nominal.
+SI25CB39900492,Wright Ltd,Elastic Rail Clip,B399,05-04-2025,12-04-2025,04-04-2030,OK,Performance nominal.
+SI25LB99400493,Wright Ltd,GFN Liner,B994,27-08-2025,04-09-2025,26-08-2030,OK,Performance nominal.
+PP25CB92300494,"Wright, West and James",Elastic Rail Clip,B923,21-07-2025,29-07-2025,20-07-2030,OK,Performance nominal.
+SI25CB12700495,Wright Ltd,Elastic Rail Clip,B127,22-07-2025,10-08-2025,21-07-2030,OK,Performance nominal.
+TS25PB49500496,"Cortez, Marsh and Nelson",Rail Pad,B495,28-06-2025,05-07-2025,27-06-2030,OK,Performance nominal.
+TS25CB93600497,"Cortez, Marsh and Nelson",Elastic Rail Clip,B936,10-05-2025,21-05-2025,09-05-2030,OK,Performance nominal.
+TS25LB64600498,"Cortez, Marsh and Nelson",GFN Liner,B646,28-06-2025,11-07-2025,27-06-2030,OK,Performance nominal.
+SI25PB66000499,Wright Ltd,Rail Pad,B660,13-06-2025,18-06-2025,12-06-2030,OK,Performance nominal.
+TS25CB59000500,"Cortez, Marsh and Nelson",Elastic Rail Clip,B590,09-03-2025,24-03-2025,08-03-2030,OK,Performance nominal.
+RC25PB80300501,Kent-Young,Rail Pad,B803,21-02-2025,08-03-2025,20-02-2030,OK,Performance nominal.
+RC25CB75000502,Kent-Young,Elastic Rail Clip,B750,16-08-2025,28-08-2025,15-08-2030,OK,Performance nominal.
+SI25LB99400503,Wright Ltd,GFN Liner,B994,02-05-2025,19-05-2025,01-05-2030,OK,Performance nominal.
+SI25PB19200504,Wright Ltd,Rail Pad,B192,01-07-2025,16-07-2025,30-06-2030,OK,Performance nominal.
+SI25CB19800505,Wright Ltd,Elastic Rail Clip,B198,06-07-2025,18-07-2025,05-07-2030,OK,Performance nominal.
+RC25LB62500506,Kent-Young,GFN Liner,B625,26-04-2025,01-05-2025,25-04-2030,OK,Performance nominal.
+SI25PB43600507,Wright Ltd,Rail Pad,B436,22-06-2025,06-07-2025,21-06-2030,OK,Performance nominal.
+TS25LB62500508,"Cortez, Marsh and Nelson",GFN Liner,B625,01-08-2025,14-08-2025,31-07-2030,OK,Performance nominal.
+TS25PB44800509,"Cortez, Marsh and Nelson",Rail Pad,B448,07-03-2025,12-03-2025,06-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB50700510,Wright Ltd,Rail Pad,B507,12-02-2025,25-02-2025,11-02-2030,OK,Performance nominal.
+TS25CB62500511,"Cortez, Marsh and Nelson",Elastic Rail Clip,B625,22-02-2025,13-03-2025,21-02-2030,OK,Performance nominal.
+SI25PB50200512,Wright Ltd,Rail Pad,B502,19-07-2025,04-08-2025,18-07-2030,OK,Performance nominal.
+TS25PB64400513,"Cortez, Marsh and Nelson",Rail Pad,B644,03-03-2025,13-03-2025,02-03-2030,OK,Performance nominal.
+SI25CB40700514,Wright Ltd,Elastic Rail Clip,B407,24-08-2025,13-09-2025,23-08-2030,OK,Performance nominal.
+RC25CB12800515,Kent-Young,Elastic Rail Clip,B128,06-05-2025,21-05-2025,05-05-2030,OK,Performance nominal.
+RC25LB69800516,Kent-Young,GFN Liner,B698,06-05-2025,18-05-2025,05-05-2030,OK,Performance nominal.
+RC25PB60600517,Kent-Young,Rail Pad,B606,08-07-2025,19-07-2025,07-07-2030,OK,Performance nominal.
+TS25PB29200518,"Cortez, Marsh and Nelson",Rail Pad,B292,15-07-2025,24-07-2025,14-07-2030,OK,Performance nominal.
+RC25PB17200519,Kent-Young,Rail Pad,B172,09-04-2025,19-04-2025,08-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB14700520,Wright Ltd,Elastic Rail Clip,B147,02-01-2025,18-01-2025,01-01-2030,OK,Performance nominal.
+TS25PB97500521,"Cortez, Marsh and Nelson",Rail Pad,B975,25-04-2025,03-05-2025,24-04-2030,OK,Performance nominal.
+PP25LB23400522,"Wright, West and James",GFN Liner,B234,10-02-2025,15-02-2025,09-02-2030,OK,Performance nominal.
+PP25PB51800523,"Wright, West and James",Rail Pad,B518,01-02-2025,12-02-2025,31-01-2030,OK,Performance nominal.
+PP25LB72700524,"Wright, West and James",GFN Liner,B727,20-07-2025,05-08-2025,19-07-2030,OK,Performance nominal.
+TS25CB57900525,"Cortez, Marsh and Nelson",Elastic Rail Clip,B579,13-03-2025,23-03-2025,12-03-2030,OK,Performance nominal.
+SI25PB78800526,Wright Ltd,Rail Pad,B788,09-05-2025,22-05-2025,08-05-2030,OK,Performance nominal.
+TS25LB68500527,"Cortez, Marsh and Nelson",GFN Liner,B685,22-02-2025,04-03-2025,21-02-2030,OK,Performance nominal.
+TS25LB73800528,"Cortez, Marsh and Nelson",GFN Liner,B738,24-04-2025,07-05-2025,23-04-2030,OK,Performance nominal.
+SI25PB19000529,Wright Ltd,Rail Pad,B190,17-04-2025,07-05-2025,16-04-2030,OK,Performance nominal.
+TS25PB86000530,"Cortez, Marsh and Nelson",Rail Pad,B860,15-05-2025,23-05-2025,14-05-2030,OK,Performance nominal.
+RC25PB79100531,Kent-Young,Rail Pad,B791,27-01-2025,12-02-2025,26-01-2030,OK,Performance nominal.
+SI25PB22900532,Wright Ltd,Rail Pad,B229,21-07-2025,02-08-2025,20-07-2030,OK,Performance nominal.
+SI25PB50900533,Wright Ltd,Rail Pad,B509,13-01-2025,23-01-2025,12-01-2030,OK,Performance nominal.
+TS25LB11200534,"Cortez, Marsh and Nelson",GFN Liner,B112,14-08-2025,30-08-2025,13-08-2030,OK,Performance nominal.
+PP25PB21900535,"Wright, West and James",Rail Pad,B219,24-08-2025,11-09-2025,23-08-2030,OK,Performance nominal.
+TS25PB77800536,"Cortez, Marsh and Nelson",Rail Pad,B778,21-06-2025,03-07-2025,20-06-2030,OK,Performance nominal.
+RC25PB24900537,Kent-Young,Rail Pad,B249,04-04-2025,13-04-2025,03-04-2030,OK,Performance nominal.
+TS25CB76900538,"Cortez, Marsh and Nelson",Elastic Rail Clip,B769,10-03-2025,25-03-2025,09-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB30500539,Kent-Young,GFN Liner,B305,11-03-2025,23-03-2025,10-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB12000540,"Cortez, Marsh and Nelson",GFN Liner,B120,10-02-2025,25-02-2025,09-02-2030,OK,Performance nominal.
+PP25CB49900541,"Wright, West and James",Elastic Rail Clip,B499,21-01-2025,04-02-2025,20-01-2030,OK,Performance nominal.
+RC25PB38600542,Kent-Young,Rail Pad,B386,23-02-2025,03-03-2025,22-02-2030,OK,Performance nominal.
+SI25CB70100543,Wright Ltd,Elastic Rail Clip,B701,28-04-2025,05-05-2025,27-04-2030,OK,Performance nominal.
+RC25CB33200544,Kent-Young,Elastic Rail Clip,B332,13-08-2025,22-08-2025,12-08-2030,OK,Performance nominal.
+PP25CB27100545,"Wright, West and James",Elastic Rail Clip,B271,23-04-2025,03-05-2025,22-04-2030,OK,Performance nominal.
+PP25PB94000546,"Wright, West and James",Rail Pad,B940,06-05-2025,19-05-2025,05-05-2030,OK,Performance nominal.
+RC25CB61400547,Kent-Young,Elastic Rail Clip,B614,02-08-2025,21-08-2025,01-08-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB72500548,"Wright, West and James",GFN Liner,B725,01-03-2025,16-03-2025,28-02-2030,OK,Performance nominal.
+PP25LB32400549,"Wright, West and James",GFN Liner,B324,28-03-2025,03-04-2025,27-03-2030,OK,Performance nominal.
+SI25PB49500550,Wright Ltd,Rail Pad,B495,20-05-2025,25-05-2025,19-05-2030,OK,Performance nominal.
+RC25CB62300551,Kent-Young,Elastic Rail Clip,B623,26-01-2025,03-02-2025,25-01-2030,OK,Performance nominal.
+RC25LB57800552,Kent-Young,GFN Liner,B578,14-06-2025,19-06-2025,13-06-2030,OK,Performance nominal.
+PP25PB12200553,"Wright, West and James",Rail Pad,B122,08-07-2025,17-07-2025,07-07-2030,OK,Performance nominal.
+SI25PB53900554,Wright Ltd,Rail Pad,B539,16-04-2025,24-04-2025,15-04-2030,OK,Performance nominal.
+PP25CB20700555,"Wright, West and James",Elastic Rail Clip,B207,16-07-2025,25-07-2025,15-07-2030,OK,Performance nominal.
+RC25CB73200556,Kent-Young,Elastic Rail Clip,B732,08-01-2025,16-01-2025,07-01-2030,OK,Performance nominal.
+TS25CB21800557,"Cortez, Marsh and Nelson",Elastic Rail Clip,B218,28-01-2025,15-02-2025,27-01-2030,OK,Performance nominal.
+TS25LB55300558,"Cortez, Marsh and Nelson",GFN Liner,B553,15-06-2025,21-06-2025,14-06-2030,OK,Performance nominal.
+PP25LB44300559,"Wright, West and James",GFN Liner,B443,11-03-2025,21-03-2025,10-03-2030,OK,Performance nominal.
+RC25CB97900560,Kent-Young,Elastic Rail Clip,B979,18-05-2025,30-05-2025,17-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB11400561,"Wright, West and James",Rail Pad,B114,09-04-2025,23-04-2025,08-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB37900562,Wright Ltd,GFN Liner,B379,24-02-2025,04-03-2025,23-02-2030,OK,Performance nominal.
+TS25LB22000563,"Cortez, Marsh and Nelson",GFN Liner,B220,11-07-2025,17-07-2025,10-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB88400564,Kent-Young,GFN Liner,B884,08-08-2025,16-08-2025,07-08-2030,OK,Performance nominal.
+SI25PB30900565,Wright Ltd,Rail Pad,B309,28-05-2025,06-06-2025,27-05-2030,OK,Performance nominal.
+TS25PB43000566,"Cortez, Marsh and Nelson",Rail Pad,B430,28-02-2025,11-03-2025,27-02-2030,OK,Performance nominal.
+RC25LB64700567,Kent-Young,GFN Liner,B647,27-04-2025,09-05-2025,26-04-2030,OK,Performance nominal.
+PP25LB68600568,"Wright, West and James",GFN Liner,B686,14-02-2025,20-02-2025,13-02-2030,OK,Performance nominal.
+RC25PB13000569,Kent-Young,Rail Pad,B130,19-02-2025,28-02-2025,18-02-2030,OK,Performance nominal.
+RC25CB75000570,Kent-Young,Elastic Rail Clip,B750,23-02-2025,12-03-2025,22-02-2030,OK,Performance nominal.
+PP25PB67400571,"Wright, West and James",Rail Pad,B674,13-04-2025,23-04-2025,12-04-2030,OK,Performance nominal.
+SI25LB74500572,Wright Ltd,GFN Liner,B745,01-05-2025,11-05-2025,30-04-2030,OK,Performance nominal.
+PP25PB92700573,"Wright, West and James",Rail Pad,B927,18-06-2025,27-06-2025,17-06-2030,OK,Performance nominal.
+RC25CB40800574,Kent-Young,Elastic Rail Clip,B408,17-08-2025,24-08-2025,16-08-2030,OK,Performance nominal.
+PP25PB75200575,"Wright, West and James",Rail Pad,B752,21-08-2025,08-09-2025,20-08-2030,OK,Performance nominal.
+PP25CB80500576,"Wright, West and James",Elastic Rail Clip,B805,12-05-2025,28-05-2025,11-05-2030,OK,Performance nominal.
+PP25CB18400577,"Wright, West and James",Elastic Rail Clip,B184,01-05-2025,14-05-2025,30-04-2030,OK,Performance nominal.
+SI25LB47300578,Wright Ltd,GFN Liner,B473,20-07-2025,03-08-2025,19-07-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB82300579,"Wright, West and James",Elastic Rail Clip,B823,06-08-2025,18-08-2025,05-08-2030,OK,Performance nominal.
+SI25CB10000580,Wright Ltd,Elastic Rail Clip,B100,25-08-2025,12-09-2025,24-08-2030,OK,Performance nominal.
+RC25PB81400581,Kent-Young,Rail Pad,B814,05-07-2025,19-07-2025,04-07-2030,OK,Performance nominal.
+RC25CB56300582,Kent-Young,Elastic Rail Clip,B563,10-01-2025,24-01-2025,09-01-2030,OK,Performance nominal.
+SI25PB62600583,Wright Ltd,Rail Pad,B626,05-06-2025,14-06-2025,04-06-2030,OK,Performance nominal.
+SI25LB64000584,Wright Ltd,GFN Liner,B640,09-08-2025,16-08-2025,08-08-2030,OK,Performance nominal.
+PP25LB60200585,"Wright, West and James",GFN Liner,B602,10-01-2025,27-01-2025,09-01-2030,OK,Performance nominal.
+TS25CB70100586,"Cortez, Marsh and Nelson",Elastic Rail Clip,B701,07-06-2025,24-06-2025,06-06-2030,OK,Performance nominal.
+RC25LB40500587,Kent-Young,GFN Liner,B405,08-04-2025,23-04-2025,07-04-2030,OK,Performance nominal.
+SI25PB91500588,Wright Ltd,Rail Pad,B915,06-02-2025,21-02-2025,05-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB27400589,Kent-Young,Rail Pad,B274,03-03-2025,19-03-2025,02-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB96900590,Wright Ltd,GFN Liner,B969,14-05-2025,27-05-2025,13-05-2030,OK,Performance nominal.
+RC25LB27800591,Kent-Young,GFN Liner,B278,12-05-2025,21-05-2025,11-05-2030,OK,Performance nominal.
+PP25CB69200592,"Wright, West and James",Elastic Rail Clip,B692,16-02-2025,04-03-2025,15-02-2030,OK,Performance nominal.
+PP25PB46000593,"Wright, West and James",Rail Pad,B460,21-02-2025,01-03-2025,20-02-2030,OK,Performance nominal.
+RC25PB52600594,Kent-Young,Rail Pad,B526,09-04-2025,26-04-2025,08-04-2030,OK,Performance nominal.
+PP25PB70400595,"Wright, West and James",Rail Pad,B704,27-01-2025,09-02-2025,26-01-2030,OK,Performance nominal.
+TS25PB61100596,"Cortez, Marsh and Nelson",Rail Pad,B611,26-01-2025,15-02-2025,25-01-2030,OK,Performance nominal.
+SI25LB17900597,Wright Ltd,GFN Liner,B179,03-07-2025,21-07-2025,02-07-2030,OK,Performance nominal.
+RC25LB45900598,Kent-Young,GFN Liner,B459,09-07-2025,17-07-2025,08-07-2030,OK,Performance nominal.
+RC25PB25600599,Kent-Young,Rail Pad,B256,12-04-2025,21-04-2025,11-04-2030,OK,Performance nominal.
+PP25LB26000600,"Wright, West and James",GFN Liner,B260,13-04-2025,26-04-2025,12-04-2030,OK,Performance nominal.
+RC25CB15900601,Kent-Young,Elastic Rail Clip,B159,07-01-2025,15-01-2025,06-01-2030,OK,Performance nominal.
+PP25CB88700602,"Wright, West and James",Elastic Rail Clip,B887,03-04-2025,14-04-2025,02-04-2030,OK,Performance nominal.
+PP25CB76700603,"Wright, West and James",Elastic Rail Clip,B767,14-06-2025,28-06-2025,13-06-2030,OK,Performance nominal.
+PP25LB34200604,"Wright, West and James",GFN Liner,B342,26-07-2025,31-07-2025,25-07-2030,OK,Performance nominal.
+SI25CB92900605,Wright Ltd,Elastic Rail Clip,B929,12-02-2025,22-02-2025,11-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB50300606,Kent-Young,Rail Pad,B503,04-04-2025,19-04-2025,03-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB50700607,Wright Ltd,GFN Liner,B507,23-08-2025,04-09-2025,22-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB25900608,Kent-Young,Rail Pad,B259,07-02-2025,25-02-2025,06-02-2030,OK,Performance nominal.
+TS25LB30800609,"Cortez, Marsh and Nelson",GFN Liner,B308,20-01-2025,03-02-2025,19-01-2030,OK,Performance nominal.
+TS25PB21700610,"Cortez, Marsh and Nelson",Rail Pad,B217,13-06-2025,22-06-2025,12-06-2030,OK,Performance nominal.
+PP25LB41400611,"Wright, West and James",GFN Liner,B414,13-07-2025,02-08-2025,12-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB40100612,Kent-Young,Elastic Rail Clip,B401,19-04-2025,05-05-2025,18-04-2030,OK,Performance nominal.
+SI25LB49600613,Wright Ltd,GFN Liner,B496,10-08-2025,20-08-2025,09-08-2030,OK,Performance nominal.
+RC25LB46800614,Kent-Young,GFN Liner,B468,12-03-2025,17-03-2025,11-03-2030,OK,Performance nominal.
+RC25LB37000615,Kent-Young,GFN Liner,B370,17-01-2025,03-02-2025,16-01-2030,OK,Performance nominal.
+RC25CB90100616,Kent-Young,Elastic Rail Clip,B901,04-03-2025,14-03-2025,03-03-2030,OK,Performance nominal.
+PP25PB64500617,"Wright, West and James",Rail Pad,B645,09-06-2025,27-06-2025,08-06-2030,OK,Performance nominal.
+PP25LB59300618,"Wright, West and James",GFN Liner,B593,24-05-2025,31-05-2025,23-05-2030,OK,Performance nominal.
+SI25PB19700619,Wright Ltd,Rail Pad,B197,19-01-2025,26-01-2025,18-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB23000620,Wright Ltd,Elastic Rail Clip,B230,23-02-2025,28-02-2025,22-02-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB48400621,"Wright, West and James",Rail Pad,B484,20-07-2025,07-08-2025,19-07-2030,OK,Performance nominal.
+TS25CB76500622,"Cortez, Marsh and Nelson",Elastic Rail Clip,B765,03-08-2025,08-08-2025,02-08-2030,OK,Performance nominal.
+PP25PB29200623,"Wright, West and James",Rail Pad,B292,26-02-2025,08-03-2025,25-02-2030,OK,Performance nominal.
+SI25PB18800624,Wright Ltd,Rail Pad,B188,22-04-2025,27-04-2025,21-04-2030,OK,Performance nominal.
+TS25LB25300625,"Cortez, Marsh and Nelson",GFN Liner,B253,17-05-2025,25-05-2025,16-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB66300626,"Wright, West and James",Elastic Rail Clip,B663,01-04-2025,20-04-2025,31-03-2030,OK,Performance nominal.
+PP25PB58700627,"Wright, West and James",Rail Pad,B587,17-03-2025,05-04-2025,16-03-2030,OK,Performance nominal.
+PP25LB53400628,"Wright, West and James",GFN Liner,B534,01-01-2025,07-01-2025,31-12-2029,OK,Performance nominal.
+RC25PB77300629,Kent-Young,Rail Pad,B773,23-02-2025,28-02-2025,22-02-2030,OK,Performance nominal.
+SI25LB73100630,Wright Ltd,GFN Liner,B731,02-03-2025,09-03-2025,01-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB71700631,Kent-Young,Elastic Rail Clip,B717,18-02-2025,27-02-2025,17-02-2030,OK,Performance nominal.
+TS25LB86900632,"Cortez, Marsh and Nelson",GFN Liner,B869,14-08-2025,01-09-2025,13-08-2030,OK,Performance nominal.
+PP25PB42700633,"Wright, West and James",Rail Pad,B427,15-05-2025,04-06-2025,14-05-2030,OK,Performance nominal.
+TS25LB45100634,"Cortez, Marsh and Nelson",GFN Liner,B451,06-05-2025,23-05-2025,05-05-2030,OK,Performance nominal.
+SI25CB67900635,Wright Ltd,Elastic Rail Clip,B679,26-01-2025,07-02-2025,25-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB76600636,Wright Ltd,Rail Pad,B766,18-06-2025,28-06-2025,17-06-2030,OK,Performance nominal.
+RC25LB11300637,Kent-Young,GFN Liner,B113,13-08-2025,18-08-2025,12-08-2030,OK,Performance nominal.
+RC25PB35100638,Kent-Young,Rail Pad,B351,15-07-2025,03-08-2025,14-07-2030,OK,Performance nominal.
+SI25LB49600639,Wright Ltd,GFN Liner,B496,23-02-2025,13-03-2025,22-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB16000640,Kent-Young,GFN Liner,B160,23-03-2025,12-04-2025,22-03-2030,OK,Performance nominal.
+SI25PB32000641,Wright Ltd,Rail Pad,B320,25-04-2025,09-05-2025,24-04-2030,OK,Performance nominal.
+TS25CB20700642,"Cortez, Marsh and Nelson",Elastic Rail Clip,B207,17-05-2025,03-06-2025,16-05-2030,OK,Performance nominal.
+RC25LB40200643,Kent-Young,GFN Liner,B402,04-04-2025,17-04-2025,03-04-2030,OK,Performance nominal.
+TS25PB99600644,"Cortez, Marsh and Nelson",Rail Pad,B996,25-08-2025,31-08-2025,24-08-2030,OK,Performance nominal.
+SI25PB24000645,Wright Ltd,Rail Pad,B240,01-06-2025,11-06-2025,31-05-2030,OK,Performance nominal.
+PP25PB57900646,"Wright, West and James",Rail Pad,B579,01-02-2025,16-02-2025,31-01-2030,OK,Performance nominal.
+TS25LB21700647,"Cortez, Marsh and Nelson",GFN Liner,B217,16-03-2025,25-03-2025,15-03-2030,OK,Performance nominal.
+TS25LB21600648,"Cortez, Marsh and Nelson",GFN Liner,B216,14-03-2025,20-03-2025,13-03-2030,OK,Performance nominal.
+TS25LB64000649,"Cortez, Marsh and Nelson",GFN Liner,B640,25-08-2025,08-09-2025,24-08-2030,OK,Performance nominal.
+RC25LB22300650,Kent-Young,GFN Liner,B223,20-06-2025,29-06-2025,19-06-2030,OK,Performance nominal.
+RC25PB16000651,Kent-Young,Rail Pad,B160,27-01-2025,06-02-2025,26-01-2030,OK,Performance nominal.
+TS25CB94900652,"Cortez, Marsh and Nelson",Elastic Rail Clip,B949,18-06-2025,03-07-2025,17-06-2030,OK,Performance nominal.
+SI25PB54400653,Wright Ltd,Rail Pad,B544,08-04-2025,26-04-2025,07-04-2030,OK,Performance nominal.
+TS25CB27300654,"Cortez, Marsh and Nelson",Elastic Rail Clip,B273,28-08-2025,16-09-2025,27-08-2030,OK,Performance nominal.
+TS25LB12400655,"Cortez, Marsh and Nelson",GFN Liner,B124,17-04-2025,22-04-2025,16-04-2030,OK,Performance nominal.
+PP25CB14600656,"Wright, West and James",Elastic Rail Clip,B146,14-03-2025,27-03-2025,13-03-2030,OK,Performance nominal.
+RC25PB21000657,Kent-Young,Rail Pad,B210,17-04-2025,26-04-2025,16-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB96500658,Kent-Young,Elastic Rail Clip,B965,07-05-2025,12-05-2025,06-05-2030,OK,Performance nominal.
+RC25PB94000659,Kent-Young,Rail Pad,B940,20-02-2025,07-03-2025,19-02-2030,OK,Performance nominal.
+SI25LB47800660,Wright Ltd,GFN Liner,B478,28-01-2025,11-02-2025,27-01-2030,OK,Performance nominal.
+SI25LB40700661,Wright Ltd,GFN Liner,B407,04-03-2025,14-03-2025,03-03-2030,OK,Performance nominal.
+PP25PB18600662,"Wright, West and James",Rail Pad,B186,10-04-2025,17-04-2025,09-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB56600663,"Wright, West and James",GFN Liner,B566,09-04-2025,15-04-2025,08-04-2030,OK,Performance nominal.
+PP25CB54900664,"Wright, West and James",Elastic Rail Clip,B549,04-03-2025,22-03-2025,03-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB60400665,"Cortez, Marsh and Nelson",GFN Liner,B604,17-02-2025,24-02-2025,16-02-2030,OK,Performance nominal.
+RC25CB40700666,Kent-Young,Elastic Rail Clip,B407,01-08-2025,20-08-2025,31-07-2030,OK,Performance nominal.
+PP25CB86300667,"Wright, West and James",Elastic Rail Clip,B863,24-01-2025,08-02-2025,23-01-2030,OK,Performance nominal.
+TS25LB34200668,"Cortez, Marsh and Nelson",GFN Liner,B342,23-02-2025,06-03-2025,22-02-2030,OK,Performance nominal.
+PP25LB47200669,"Wright, West and James",GFN Liner,B472,01-08-2025,09-08-2025,31-07-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB22800670,"Cortez, Marsh and Nelson",Elastic Rail Clip,B228,22-01-2025,06-02-2025,21-01-2030,OK,Performance nominal.
+SI25PB91500671,Wright Ltd,Rail Pad,B915,21-06-2025,29-06-2025,20-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB60400672,Wright Ltd,GFN Liner,B604,20-07-2025,09-08-2025,19-07-2030,OK,Performance nominal.
+PP25LB60300673,"Wright, West and James",GFN Liner,B603,17-08-2025,27-08-2025,16-08-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB40700674,"Cortez, Marsh and Nelson",Rail Pad,B407,26-08-2025,04-09-2025,25-08-2030,OK,Performance nominal.
+SI25PB95900675,Wright Ltd,Rail Pad,B959,14-05-2025,02-06-2025,13-05-2030,OK,Performance nominal.
+RC25CB19400676,Kent-Young,Elastic Rail Clip,B194,21-01-2025,04-02-2025,20-01-2030,OK,Performance nominal.
+PP25PB34600677,"Wright, West and James",Rail Pad,B346,25-03-2025,09-04-2025,24-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB58700678,Wright Ltd,Rail Pad,B587,24-03-2025,05-04-2025,23-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB61700679,Kent-Young,Elastic Rail Clip,B617,10-02-2025,19-02-2025,09-02-2030,OK,Performance nominal.
+SI25LB39700680,Wright Ltd,GFN Liner,B397,04-03-2025,10-03-2025,03-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB28700681,"Cortez, Marsh and Nelson",GFN Liner,B287,26-01-2025,08-02-2025,25-01-2030,OK,Performance nominal.
+RC25PB82100682,Kent-Young,Rail Pad,B821,22-08-2025,02-09-2025,21-08-2030,OK,Performance nominal.
+SI25PB59400683,Wright Ltd,Rail Pad,B594,12-01-2025,01-02-2025,11-01-2030,OK,Performance nominal.
+TS25LB34000684,"Cortez, Marsh and Nelson",GFN Liner,B340,15-05-2025,28-05-2025,14-05-2030,OK,Performance nominal.
+PP25CB98700685,"Wright, West and James",Elastic Rail Clip,B987,15-08-2025,27-08-2025,14-08-2030,OK,Performance nominal.
+SI25CB86900686,Wright Ltd,Elastic Rail Clip,B869,15-07-2025,29-07-2025,14-07-2030,OK,Performance nominal.
+SI25PB57400687,Wright Ltd,Rail Pad,B574,17-04-2025,30-04-2025,16-04-2030,OK,Performance nominal.
+SI25PB84000688,Wright Ltd,Rail Pad,B840,15-02-2025,04-03-2025,14-02-2030,OK,Performance nominal.
+RC25PB16800689,Kent-Young,Rail Pad,B168,19-02-2025,26-02-2025,18-02-2030,OK,Performance nominal.
+TS25PB41200690,"Cortez, Marsh and Nelson",Rail Pad,B412,27-03-2025,09-04-2025,26-03-2030,OK,Performance nominal.
+TS25LB18800691,"Cortez, Marsh and Nelson",GFN Liner,B188,10-03-2025,20-03-2025,09-03-2030,OK,Performance nominal.
+SI25PB96300692,Wright Ltd,Rail Pad,B963,10-04-2025,26-04-2025,09-04-2030,OK,Performance nominal.
+RC25LB75100693,Kent-Young,GFN Liner,B751,15-03-2025,31-03-2025,14-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB95100694,Kent-Young,Elastic Rail Clip,B951,01-03-2025,12-03-2025,28-02-2030,OK,Performance nominal.
+SI25CB55700695,Wright Ltd,Elastic Rail Clip,B557,04-04-2025,20-04-2025,03-04-2030,OK,Performance nominal.
+PP25CB26100696,"Wright, West and James",Elastic Rail Clip,B261,02-07-2025,13-07-2025,01-07-2030,OK,Performance nominal.
+RC25PB55800697,Kent-Young,Rail Pad,B558,27-08-2025,06-09-2025,26-08-2030,OK,Performance nominal.
+PP25LB47000698,"Wright, West and James",GFN Liner,B470,12-08-2025,31-08-2025,11-08-2030,OK,Performance nominal.
+PP25LB17300699,"Wright, West and James",GFN Liner,B173,27-03-2025,08-04-2025,26-03-2030,OK,Performance nominal.
+TS25CB82800700,"Cortez, Marsh and Nelson",Elastic Rail Clip,B828,01-04-2025,06-04-2025,31-03-2030,OK,Performance nominal.
+TS25CB81800701,"Cortez, Marsh and Nelson",Elastic Rail Clip,B818,27-08-2025,03-09-2025,26-08-2030,OK,Performance nominal.
+SI25LB83200702,Wright Ltd,GFN Liner,B832,13-02-2025,26-02-2025,12-02-2030,OK,Performance nominal.
+TS25CB61700703,"Cortez, Marsh and Nelson",Elastic Rail Clip,B617,27-05-2025,02-06-2025,26-05-2030,OK,Performance nominal.
+SI25CB93000704,Wright Ltd,Elastic Rail Clip,B930,23-07-2025,12-08-2025,22-07-2030,OK,Performance nominal.
+TS25LB23200705,"Cortez, Marsh and Nelson",GFN Liner,B232,21-02-2025,06-03-2025,20-02-2030,OK,Performance nominal.
+TS25LB52600706,"Cortez, Marsh and Nelson",GFN Liner,B526,04-06-2025,24-06-2025,03-06-2030,OK,Performance nominal.
+PP25PB27300707,"Wright, West and James",Rail Pad,B273,02-05-2025,09-05-2025,01-05-2030,OK,Performance nominal.
+RC25LB39900708,Kent-Young,GFN Liner,B399,28-01-2025,17-02-2025,27-01-2030,OK,Performance nominal.
+RC25CB25200709,Kent-Young,Elastic Rail Clip,B252,09-08-2025,23-08-2025,08-08-2030,OK,Performance nominal.
+TS25PB51300710,"Cortez, Marsh and Nelson",Rail Pad,B513,23-02-2025,07-03-2025,22-02-2030,OK,Performance nominal.
+TS25LB57500711,"Cortez, Marsh and Nelson",GFN Liner,B575,05-02-2025,13-02-2025,04-02-2030,OK,Performance nominal.
+PP25PB76300712,"Wright, West and James",Rail Pad,B763,19-03-2025,29-03-2025,18-03-2030,OK,Performance nominal.
+PP25CB96700713,"Wright, West and James",Elastic Rail Clip,B967,03-07-2025,10-07-2025,02-07-2030,OK,Performance nominal.
+RC25LB89200714,Kent-Young,GFN Liner,B892,22-01-2025,01-02-2025,21-01-2030,OK,Performance nominal.
+RC25CB72500715,Kent-Young,Elastic Rail Clip,B725,23-03-2025,04-04-2025,22-03-2030,OK,Performance nominal.
+TS25LB86400716,"Cortez, Marsh and Nelson",GFN Liner,B864,01-04-2025,19-04-2025,31-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB29900717,Wright Ltd,Elastic Rail Clip,B299,26-04-2025,02-05-2025,25-04-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB28500718,"Cortez, Marsh and Nelson",Rail Pad,B285,19-08-2025,06-09-2025,18-08-2030,OK,Performance nominal.
+SI25PB93100719,Wright Ltd,Rail Pad,B931,02-02-2025,09-02-2025,01-02-2030,OK,Performance nominal.
+RC25CB18200720,Kent-Young,Elastic Rail Clip,B182,04-08-2025,13-08-2025,03-08-2030,OK,Performance nominal.
+TS25LB53200721,"Cortez, Marsh and Nelson",GFN Liner,B532,24-06-2025,08-07-2025,23-06-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB46700722,Kent-Young,GFN Liner,B467,09-08-2025,15-08-2025,08-08-2030,OK,Performance nominal.
+RC25CB12900723,Kent-Young,Elastic Rail Clip,B129,19-01-2025,01-02-2025,18-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB83400724,Wright Ltd,Elastic Rail Clip,B834,25-01-2025,11-02-2025,24-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB41000725,Wright Ltd,Rail Pad,B410,21-02-2025,09-03-2025,20-02-2030,OK,Performance nominal.
+RC25LB85900726,Kent-Young,GFN Liner,B859,11-04-2025,19-04-2025,10-04-2030,OK,Performance nominal.
+PP25LB39500727,"Wright, West and James",GFN Liner,B395,12-01-2025,18-01-2025,11-01-2030,OK,Performance nominal.
+RC25CB74500728,Kent-Young,Elastic Rail Clip,B745,12-08-2025,01-09-2025,11-08-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB21900729,"Cortez, Marsh and Nelson",Elastic Rail Clip,B219,17-03-2025,24-03-2025,16-03-2030,OK,Performance nominal.
+TS25PB33600730,"Cortez, Marsh and Nelson",Rail Pad,B336,25-05-2025,09-06-2025,24-05-2030,OK,Performance nominal.
+PP25LB34200731,"Wright, West and James",GFN Liner,B342,27-05-2025,07-06-2025,26-05-2030,OK,Performance nominal.
+SI25PB50700732,Wright Ltd,Rail Pad,B507,27-08-2025,03-09-2025,26-08-2030,FLAGGED,High failure rate predicted for this batch.
+TS25CB27300733,"Cortez, Marsh and Nelson",Elastic Rail Clip,B273,20-06-2025,27-06-2025,19-06-2030,OK,Performance nominal.
+TS25PB31000734,"Cortez, Marsh and Nelson",Rail Pad,B310,03-03-2025,17-03-2025,02-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB25700735,Wright Ltd,Rail Pad,B257,25-07-2025,06-08-2025,24-07-2030,OK,Performance nominal.
+RC25PB90500736,Kent-Young,Rail Pad,B905,22-04-2025,28-04-2025,21-04-2030,OK,Performance nominal.
+PP25LB42100737,"Wright, West and James",GFN Liner,B421,24-04-2025,12-05-2025,23-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB56000738,Wright Ltd,Elastic Rail Clip,B560,06-08-2025,12-08-2025,05-08-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB30400739,"Wright, West and James",Rail Pad,B304,08-01-2025,25-01-2025,07-01-2030,OK,Performance nominal.
+SI25PB80500740,Wright Ltd,Rail Pad,B805,16-07-2025,30-07-2025,15-07-2030,OK,Performance nominal.
+RC25PB99700741,Kent-Young,Rail Pad,B997,27-08-2025,16-09-2025,26-08-2030,OK,Performance nominal.
+SI25LB98500742,Wright Ltd,GFN Liner,B985,09-02-2025,22-02-2025,08-02-2030,OK,Performance nominal.
+SI25LB17400743,Wright Ltd,GFN Liner,B174,28-02-2025,12-03-2025,27-02-2030,OK,Performance nominal.
+PP25PB75800744,"Wright, West and James",Rail Pad,B758,25-03-2025,06-04-2025,24-03-2030,OK,Performance nominal.
+TS25LB87300745,"Cortez, Marsh and Nelson",GFN Liner,B873,14-03-2025,23-03-2025,13-03-2030,OK,Performance nominal.
+TS25PB21400746,"Cortez, Marsh and Nelson",Rail Pad,B214,03-03-2025,19-03-2025,02-03-2030,OK,Performance nominal.
+SI25PB81500747,Wright Ltd,Rail Pad,B815,03-03-2025,10-03-2025,02-03-2030,OK,Performance nominal.
+TS25PB89400748,"Cortez, Marsh and Nelson",Rail Pad,B894,16-04-2025,04-05-2025,15-04-2030,OK,Performance nominal.
+TS25PB96000749,"Cortez, Marsh and Nelson",Rail Pad,B960,02-03-2025,16-03-2025,01-03-2030,OK,Performance nominal.
+TS25CB22100750,"Cortez, Marsh and Nelson",Elastic Rail Clip,B221,25-01-2025,01-02-2025,24-01-2030,OK,Performance nominal.
+RC25CB83500751,Kent-Young,Elastic Rail Clip,B835,14-01-2025,30-01-2025,13-01-2030,OK,Performance nominal.
+SI25PB98200752,Wright Ltd,Rail Pad,B982,08-08-2025,22-08-2025,07-08-2030,OK,Performance nominal.
+PP25CB61900753,"Wright, West and James",Elastic Rail Clip,B619,28-04-2025,07-05-2025,27-04-2030,OK,Performance nominal.
+RC25LB99400754,Kent-Young,GFN Liner,B994,07-02-2025,23-02-2025,06-02-2030,OK,Performance nominal.
+RC25CB89600755,Kent-Young,Elastic Rail Clip,B896,11-06-2025,01-07-2025,10-06-2030,OK,Performance nominal.
+TS25PB96700756,"Cortez, Marsh and Nelson",Rail Pad,B967,18-03-2025,04-04-2025,17-03-2030,OK,Performance nominal.
+SI25PB71200757,Wright Ltd,Rail Pad,B712,21-05-2025,01-06-2025,20-05-2030,OK,Performance nominal.
+TS25LB63700758,"Cortez, Marsh and Nelson",GFN Liner,B637,02-01-2025,19-01-2025,01-01-2030,OK,Performance nominal.
+RC25PB48000759,Kent-Young,Rail Pad,B480,15-01-2025,24-01-2025,14-01-2030,OK,Performance nominal.
+TS25PB67900760,"Cortez, Marsh and Nelson",Rail Pad,B679,21-04-2025,30-04-2025,20-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB41700761,Wright Ltd,GFN Liner,B417,14-03-2025,03-04-2025,13-03-2030,OK,Performance nominal.
+TS25LB17900762,"Cortez, Marsh and Nelson",GFN Liner,B179,28-03-2025,05-04-2025,27-03-2030,OK,Performance nominal.
+TS25CB37900763,"Cortez, Marsh and Nelson",Elastic Rail Clip,B379,07-02-2025,21-02-2025,06-02-2030,OK,Performance nominal.
+PP25CB23700764,"Wright, West and James",Elastic Rail Clip,B237,18-02-2025,05-03-2025,17-02-2030,OK,Performance nominal.
+TS25CB14800765,"Cortez, Marsh and Nelson",Elastic Rail Clip,B148,16-05-2025,03-06-2025,15-05-2030,OK,Performance nominal.
+SI25CB90700766,Wright Ltd,Elastic Rail Clip,B907,20-07-2025,28-07-2025,19-07-2030,OK,Performance nominal.
+TS25LB69500767,"Cortez, Marsh and Nelson",GFN Liner,B695,20-01-2025,05-02-2025,19-01-2030,OK,Performance nominal.
+PP25PB44400768,"Wright, West and James",Rail Pad,B444,07-04-2025,21-04-2025,06-04-2030,OK,Performance nominal.
+TS25PB44300769,"Cortez, Marsh and Nelson",Rail Pad,B443,04-06-2025,14-06-2025,03-06-2030,OK,Performance nominal.
+TS25LB23700770,"Cortez, Marsh and Nelson",GFN Liner,B237,19-04-2025,30-04-2025,18-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB70500771,"Wright, West and James",GFN Liner,B705,10-01-2025,23-01-2025,09-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB91100772,"Cortez, Marsh and Nelson",GFN Liner,B911,03-05-2025,09-05-2025,02-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB60800773,"Wright, West and James",Rail Pad,B608,01-02-2025,16-02-2025,31-01-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB53900774,"Wright, West and James",Rail Pad,B539,17-04-2025,25-04-2025,16-04-2030,OK,Performance nominal.
+PP25CB39300775,"Wright, West and James",Elastic Rail Clip,B393,18-02-2025,01-03-2025,17-02-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB87900776,"Cortez, Marsh and Nelson",GFN Liner,B879,04-07-2025,14-07-2025,03-07-2030,OK,Performance nominal.
+PP25PB75200777,"Wright, West and James",Rail Pad,B752,23-06-2025,29-06-2025,22-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB53800778,Wright Ltd,Rail Pad,B538,24-04-2025,01-05-2025,23-04-2030,OK,Performance nominal.
+TS25PB66900779,"Cortez, Marsh and Nelson",Rail Pad,B669,05-05-2025,11-05-2025,04-05-2030,OK,Performance nominal.
+PP25PB69800780,"Wright, West and James",Rail Pad,B698,06-04-2025,22-04-2025,05-04-2030,OK,Performance nominal.
+TS25CB56700781,"Cortez, Marsh and Nelson",Elastic Rail Clip,B567,17-07-2025,25-07-2025,16-07-2030,OK,Performance nominal.
+SI25LB64300782,Wright Ltd,GFN Liner,B643,25-01-2025,07-02-2025,24-01-2030,OK,Performance nominal.
+RC25CB14200783,Kent-Young,Elastic Rail Clip,B142,01-01-2025,21-01-2025,31-12-2029,OK,Performance nominal.
+SI25CB12500784,Wright Ltd,Elastic Rail Clip,B125,06-04-2025,22-04-2025,05-04-2030,OK,Performance nominal.
+PP25LB87800785,"Wright, West and James",GFN Liner,B878,05-06-2025,22-06-2025,04-06-2030,OK,Performance nominal.
+RC25PB46400786,Kent-Young,Rail Pad,B464,15-08-2025,23-08-2025,14-08-2030,OK,Performance nominal.
+SI25LB91600787,Wright Ltd,GFN Liner,B916,28-01-2025,15-02-2025,27-01-2030,OK,Performance nominal.
+PP25PB55100788,"Wright, West and James",Rail Pad,B551,24-02-2025,13-03-2025,23-02-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB37300789,Kent-Young,Elastic Rail Clip,B373,17-01-2025,05-02-2025,16-01-2030,OK,Performance nominal.
+TS25CB52300790,"Cortez, Marsh and Nelson",Elastic Rail Clip,B523,06-08-2025,14-08-2025,05-08-2030,OK,Performance nominal.
+RC25PB17400791,Kent-Young,Rail Pad,B174,27-02-2025,05-03-2025,26-02-2030,OK,Performance nominal.
+SI25CB94700792,Wright Ltd,Elastic Rail Clip,B947,14-06-2025,24-06-2025,13-06-2030,OK,Performance nominal.
+RC25CB97500793,Kent-Young,Elastic Rail Clip,B975,28-08-2025,07-09-2025,27-08-2030,OK,Performance nominal.
+PP25CB26700794,"Wright, West and James",Elastic Rail Clip,B267,15-05-2025,22-05-2025,14-05-2030,OK,Performance nominal.
+PP25PB55700795,"Wright, West and James",Rail Pad,B557,26-06-2025,08-07-2025,25-06-2030,OK,Performance nominal.
+PP25LB53200796,"Wright, West and James",GFN Liner,B532,26-02-2025,09-03-2025,25-02-2030,OK,Performance nominal.
+RC25CB40200797,Kent-Young,Elastic Rail Clip,B402,06-03-2025,19-03-2025,05-03-2030,OK,Performance nominal.
+PP25CB37000798,"Wright, West and James",Elastic Rail Clip,B370,01-03-2025,21-03-2025,28-02-2030,OK,Performance nominal.
+PP25PB89700799,"Wright, West and James",Rail Pad,B897,06-02-2025,18-02-2025,05-02-2030,OK,Performance nominal.
+PP25LB22300800,"Wright, West and James",GFN Liner,B223,08-06-2025,25-06-2025,07-06-2030,OK,Performance nominal.
+RC25LB68100801,Kent-Young,GFN Liner,B681,20-03-2025,05-04-2025,19-03-2030,OK,Performance nominal.
+RC25LB61300802,Kent-Young,GFN Liner,B613,03-02-2025,23-02-2025,02-02-2030,OK,Performance nominal.
+TS25CB32800803,"Cortez, Marsh and Nelson",Elastic Rail Clip,B328,22-01-2025,28-01-2025,21-01-2030,OK,Performance nominal.
+RC25PB88300804,Kent-Young,Rail Pad,B883,23-07-2025,05-08-2025,22-07-2030,OK,Performance nominal.
+PP25LB30200805,"Wright, West and James",GFN Liner,B302,21-03-2025,28-03-2025,20-03-2030,OK,Performance nominal.
+RC25CB56600806,Kent-Young,Elastic Rail Clip,B566,06-02-2025,19-02-2025,05-02-2030,OK,Performance nominal.
+PP25LB94100807,"Wright, West and James",GFN Liner,B941,13-05-2025,22-05-2025,12-05-2030,OK,Performance nominal.
+PP25PB50000808,"Wright, West and James",Rail Pad,B500,15-06-2025,03-07-2025,14-06-2030,OK,Performance nominal.
+RC25CB46300809,Kent-Young,Elastic Rail Clip,B463,02-02-2025,10-02-2025,01-02-2030,OK,Performance nominal.
+SI25CB78000810,Wright Ltd,Elastic Rail Clip,B780,25-07-2025,02-08-2025,24-07-2030,OK,Performance nominal.
+TS25CB53100811,"Cortez, Marsh and Nelson",Elastic Rail Clip,B531,24-05-2025,06-06-2025,23-05-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB82400812,Wright Ltd,GFN Liner,B824,12-05-2025,18-05-2025,11-05-2030,OK,Performance nominal.
+PP25LB52000813,"Wright, West and James",GFN Liner,B520,16-04-2025,24-04-2025,15-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB30300814,"Wright, West and James",Elastic Rail Clip,B303,17-08-2025,28-08-2025,16-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB46000815,Kent-Young,GFN Liner,B460,18-06-2025,04-07-2025,17-06-2030,OK,Performance nominal.
+TS25PB42500816,"Cortez, Marsh and Nelson",Rail Pad,B425,22-02-2025,02-03-2025,21-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB45300817,Wright Ltd,GFN Liner,B453,23-08-2025,10-09-2025,22-08-2030,OK,Performance nominal.
+TS25CB96600818,"Cortez, Marsh and Nelson",Elastic Rail Clip,B966,02-05-2025,14-05-2025,01-05-2030,OK,Performance nominal.
+TS25LB53300819,"Cortez, Marsh and Nelson",GFN Liner,B533,06-03-2025,13-03-2025,05-03-2030,OK,Performance nominal.
+PP25PB93000820,"Wright, West and James",Rail Pad,B930,15-04-2025,24-04-2025,14-04-2030,OK,Performance nominal.
+SI25PB55900821,Wright Ltd,Rail Pad,B559,21-02-2025,26-02-2025,20-02-2030,OK,Performance nominal.
+SI25PB93000822,Wright Ltd,Rail Pad,B930,16-04-2025,21-04-2025,15-04-2030,OK,Performance nominal.
+TS25LB62200823,"Cortez, Marsh and Nelson",GFN Liner,B622,06-02-2025,19-02-2025,05-02-2030,OK,Performance nominal.
+SI25CB22000824,Wright Ltd,Elastic Rail Clip,B220,12-03-2025,23-03-2025,11-03-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB34500825,Wright Ltd,Elastic Rail Clip,B345,08-08-2025,19-08-2025,07-08-2030,OK,Performance nominal.
+TS25CB50800826,"Cortez, Marsh and Nelson",Elastic Rail Clip,B508,21-08-2025,26-08-2025,20-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB81000827,Kent-Young,GFN Liner,B810,12-03-2025,22-03-2025,11-03-2030,OK,Performance nominal.
+TS25CB85500828,"Cortez, Marsh and Nelson",Elastic Rail Clip,B855,08-05-2025,23-05-2025,07-05-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB72300829,"Cortez, Marsh and Nelson",Rail Pad,B723,08-03-2025,25-03-2025,07-03-2030,OK,Performance nominal.
+TS25PB83700830,"Cortez, Marsh and Nelson",Rail Pad,B837,14-05-2025,24-05-2025,13-05-2030,OK,Performance nominal.
+TS25PB73600831,"Cortez, Marsh and Nelson",Rail Pad,B736,23-05-2025,02-06-2025,22-05-2030,OK,Performance nominal.
+SI25PB81200832,Wright Ltd,Rail Pad,B812,15-06-2025,25-06-2025,14-06-2030,OK,Performance nominal.
+SI25LB44100833,Wright Ltd,GFN Liner,B441,11-04-2025,25-04-2025,10-04-2030,OK,Performance nominal.
+SI25LB98500834,Wright Ltd,GFN Liner,B985,13-05-2025,28-05-2025,12-05-2030,OK,Performance nominal.
+PP25PB85100835,"Wright, West and James",Rail Pad,B851,08-02-2025,19-02-2025,07-02-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB37300836,"Cortez, Marsh and Nelson",GFN Liner,B373,17-02-2025,25-02-2025,16-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB73300837,Wright Ltd,Rail Pad,B733,03-02-2025,21-02-2025,02-02-2030,OK,Performance nominal.
+TS25PB40200838,"Cortez, Marsh and Nelson",Rail Pad,B402,10-01-2025,15-01-2025,09-01-2030,OK,Performance nominal.
+PP25LB78900839,"Wright, West and James",GFN Liner,B789,01-01-2025,10-01-2025,31-12-2029,OK,Performance nominal.
+TS25CB43100840,"Cortez, Marsh and Nelson",Elastic Rail Clip,B431,08-05-2025,22-05-2025,07-05-2030,OK,Performance nominal.
+SI25LB36300841,Wright Ltd,GFN Liner,B363,28-06-2025,18-07-2025,27-06-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB93700842,"Wright, West and James",GFN Liner,B937,27-05-2025,02-06-2025,26-05-2030,OK,Performance nominal.
+TS25LB32700843,"Cortez, Marsh and Nelson",GFN Liner,B327,03-01-2025,21-01-2025,02-01-2030,FLAGGED,High failure rate predicted for this batch.
+PP25PB91000844,"Wright, West and James",Rail Pad,B910,16-01-2025,24-01-2025,15-01-2030,FLAGGED,High failure rate predicted for this batch.
+PP25LB47600845,"Wright, West and James",GFN Liner,B476,16-05-2025,04-06-2025,15-05-2030,OK,Performance nominal.
+TS25PB13600846,"Cortez, Marsh and Nelson",Rail Pad,B136,09-07-2025,23-07-2025,08-07-2030,OK,Performance nominal.
+SI25CB75800847,Wright Ltd,Elastic Rail Clip,B758,18-06-2025,27-06-2025,17-06-2030,OK,Performance nominal.
+TS25PB78400848,"Cortez, Marsh and Nelson",Rail Pad,B784,15-08-2025,30-08-2025,14-08-2030,OK,Performance nominal.
+TS25PB56800849,"Cortez, Marsh and Nelson",Rail Pad,B568,12-07-2025,01-08-2025,11-07-2030,OK,Performance nominal.
+PP25LB10500850,"Wright, West and James",GFN Liner,B105,16-07-2025,03-08-2025,15-07-2030,OK,Performance nominal.
+RC25PB98800851,Kent-Young,Rail Pad,B988,12-05-2025,26-05-2025,11-05-2030,OK,Performance nominal.
+RC25CB25600852,Kent-Young,Elastic Rail Clip,B256,21-07-2025,29-07-2025,20-07-2030,OK,Performance nominal.
+TS25LB23700853,"Cortez, Marsh and Nelson",GFN Liner,B237,03-07-2025,18-07-2025,02-07-2030,OK,Performance nominal.
+PP25PB17000854,"Wright, West and James",Rail Pad,B170,02-03-2025,07-03-2025,01-03-2030,OK,Performance nominal.
+RC25LB98800855,Kent-Young,GFN Liner,B988,04-06-2025,18-06-2025,03-06-2030,OK,Performance nominal.
+TS25LB93000856,"Cortez, Marsh and Nelson",GFN Liner,B930,03-01-2025,11-01-2025,02-01-2030,OK,Performance nominal.
+RC25LB70800857,Kent-Young,GFN Liner,B708,07-06-2025,12-06-2025,06-06-2030,OK,Performance nominal.
+PP25LB46200858,"Wright, West and James",GFN Liner,B462,05-07-2025,18-07-2025,04-07-2030,OK,Performance nominal.
+SI25CB29000859,Wright Ltd,Elastic Rail Clip,B290,12-03-2025,17-03-2025,11-03-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB54500860,"Cortez, Marsh and Nelson",GFN Liner,B545,15-04-2025,27-04-2025,14-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB59900861,Kent-Young,Rail Pad,B599,15-01-2025,23-01-2025,14-01-2030,OK,Performance nominal.
+PP25LB55500862,"Wright, West and James",GFN Liner,B555,23-04-2025,01-05-2025,22-04-2030,OK,Performance nominal.
+SI25PB20400863,Wright Ltd,Rail Pad,B204,26-02-2025,08-03-2025,25-02-2030,OK,Performance nominal.
+SI25LB85900864,Wright Ltd,GFN Liner,B859,11-08-2025,17-08-2025,10-08-2030,OK,Performance nominal.
+TS25LB98100865,"Cortez, Marsh and Nelson",GFN Liner,B981,16-04-2025,30-04-2025,15-04-2030,OK,Performance nominal.
+SI25CB64100866,Wright Ltd,Elastic Rail Clip,B641,06-05-2025,21-05-2025,05-05-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB52900867,Kent-Young,Rail Pad,B529,18-07-2025,23-07-2025,17-07-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB91300868,Wright Ltd,Rail Pad,B913,18-01-2025,24-01-2025,17-01-2030,OK,Performance nominal.
+RC25PB55700869,Kent-Young,Rail Pad,B557,24-03-2025,06-04-2025,23-03-2030,OK,Performance nominal.
+SI25LB36800870,Wright Ltd,GFN Liner,B368,23-02-2025,06-03-2025,22-02-2030,OK,Performance nominal.
+SI25LB75300871,Wright Ltd,GFN Liner,B753,15-01-2025,04-02-2025,14-01-2030,OK,Performance nominal.
+PP25CB36800872,"Wright, West and James",Elastic Rail Clip,B368,24-07-2025,05-08-2025,23-07-2030,OK,Performance nominal.
+PP25CB65600873,"Wright, West and James",Elastic Rail Clip,B656,08-03-2025,22-03-2025,07-03-2030,OK,Performance nominal.
+PP25PB23600874,"Wright, West and James",Rail Pad,B236,22-07-2025,02-08-2025,21-07-2030,OK,Performance nominal.
+PP25CB37500875,"Wright, West and James",Elastic Rail Clip,B375,01-07-2025,20-07-2025,30-06-2030,OK,Performance nominal.
+SI25PB12300876,Wright Ltd,Rail Pad,B123,05-04-2025,10-04-2025,04-04-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB40300877,Kent-Young,Rail Pad,B403,20-04-2025,09-05-2025,19-04-2030,OK,Performance nominal.
+PP25CB12500878,"Wright, West and James",Elastic Rail Clip,B125,11-06-2025,17-06-2025,10-06-2030,OK,Performance nominal.
+SI25LB92600879,Wright Ltd,GFN Liner,B926,12-06-2025,24-06-2025,11-06-2030,OK,Performance nominal.
+SI25LB51600880,Wright Ltd,GFN Liner,B516,27-07-2025,09-08-2025,26-07-2030,FLAGGED,High failure rate predicted for this batch.
+RC25CB98200881,Kent-Young,Elastic Rail Clip,B982,18-01-2025,23-01-2025,17-01-2030,OK,Performance nominal.
+RC25CB24900882,Kent-Young,Elastic Rail Clip,B249,21-08-2025,27-08-2025,20-08-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB78400883,Kent-Young,GFN Liner,B784,04-03-2025,13-03-2025,03-03-2030,OK,Performance nominal.
+RC25PB83000884,Kent-Young,Rail Pad,B830,03-06-2025,18-06-2025,02-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB50100885,Wright Ltd,GFN Liner,B501,14-04-2025,04-05-2025,13-04-2030,OK,Performance nominal.
+RC25PB47900886,Kent-Young,Rail Pad,B479,28-03-2025,16-04-2025,27-03-2030,OK,Performance nominal.
+SI25PB95000887,Wright Ltd,Rail Pad,B950,05-04-2025,11-04-2025,04-04-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB66000888,"Wright, West and James",Elastic Rail Clip,B660,09-04-2025,17-04-2025,08-04-2030,OK,Performance nominal.
+SI25PB43800889,Wright Ltd,Rail Pad,B438,26-07-2025,04-08-2025,25-07-2030,OK,Performance nominal.
+RC25PB84500890,Kent-Young,Rail Pad,B845,21-01-2025,31-01-2025,20-01-2030,OK,Performance nominal.
+PP25LB14600891,"Wright, West and James",GFN Liner,B146,25-04-2025,03-05-2025,24-04-2030,OK,Performance nominal.
+RC25PB26300892,Kent-Young,Rail Pad,B263,27-08-2025,09-09-2025,26-08-2030,OK,Performance nominal.
+TS25LB50100893,"Cortez, Marsh and Nelson",GFN Liner,B501,10-01-2025,28-01-2025,09-01-2030,OK,Performance nominal.
+TS25LB64500894,"Cortez, Marsh and Nelson",GFN Liner,B645,13-05-2025,24-05-2025,12-05-2030,OK,Performance nominal.
+RC25CB31400895,Kent-Young,Elastic Rail Clip,B314,10-03-2025,23-03-2025,09-03-2030,OK,Performance nominal.
+SI25CB86000896,Wright Ltd,Elastic Rail Clip,B860,10-06-2025,19-06-2025,09-06-2030,OK,Performance nominal.
+PP25PB70500897,"Wright, West and James",Rail Pad,B705,11-07-2025,28-07-2025,10-07-2030,OK,Performance nominal.
+PP25PB80300898,"Wright, West and James",Rail Pad,B803,19-01-2025,24-01-2025,18-01-2030,OK,Performance nominal.
+PP25LB16200899,"Wright, West and James",GFN Liner,B162,08-02-2025,18-02-2025,07-02-2030,OK,Performance nominal.
+PP25CB13400900,"Wright, West and James",Elastic Rail Clip,B134,08-01-2025,22-01-2025,07-01-2030,OK,Performance nominal.
+RC25CB12200901,Kent-Young,Elastic Rail Clip,B122,23-04-2025,02-05-2025,22-04-2030,OK,Performance nominal.
+TS25PB14000902,"Cortez, Marsh and Nelson",Rail Pad,B140,01-07-2025,09-07-2025,30-06-2030,OK,Performance nominal.
+RC25CB14200903,Kent-Young,Elastic Rail Clip,B142,14-02-2025,02-03-2025,13-02-2030,OK,Performance nominal.
+SI25PB88300904,Wright Ltd,Rail Pad,B883,08-04-2025,23-04-2025,07-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25PB50800905,Wright Ltd,Rail Pad,B508,02-05-2025,10-05-2025,01-05-2030,OK,Performance nominal.
+RC25LB50500906,Kent-Young,GFN Liner,B505,04-06-2025,20-06-2025,03-06-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB66300907,Wright Ltd,GFN Liner,B663,06-02-2025,25-02-2025,05-02-2030,OK,Performance nominal.
+PP25LB33000908,"Wright, West and James",GFN Liner,B330,17-07-2025,28-07-2025,16-07-2030,OK,Performance nominal.
+TS25CB66500909,"Cortez, Marsh and Nelson",Elastic Rail Clip,B665,21-02-2025,07-03-2025,20-02-2030,OK,Performance nominal.
+SI25LB64400910,Wright Ltd,GFN Liner,B644,18-02-2025,27-02-2025,17-02-2030,OK,Performance nominal.
+PP25PB95900911,"Wright, West and James",Rail Pad,B959,16-07-2025,24-07-2025,15-07-2030,OK,Performance nominal.
+SI25LB92000912,Wright Ltd,GFN Liner,B920,20-03-2025,27-03-2025,19-03-2030,OK,Performance nominal.
+SI25CB22400913,Wright Ltd,Elastic Rail Clip,B224,17-07-2025,03-08-2025,16-07-2030,OK,Performance nominal.
+RC25LB35500914,Kent-Young,GFN Liner,B355,04-03-2025,20-03-2025,03-03-2030,OK,Performance nominal.
+RC25LB23500915,Kent-Young,GFN Liner,B235,16-03-2025,28-03-2025,15-03-2030,OK,Performance nominal.
+RC25LB70100916,Kent-Young,GFN Liner,B701,26-06-2025,09-07-2025,25-06-2030,OK,Performance nominal.
+PP25CB60500917,"Wright, West and James",Elastic Rail Clip,B605,12-07-2025,30-07-2025,11-07-2030,OK,Performance nominal.
+RC25CB51800918,Kent-Young,Elastic Rail Clip,B518,25-01-2025,04-02-2025,24-01-2030,OK,Performance nominal.
+RC25PB41500919,Kent-Young,Rail Pad,B415,17-02-2025,02-03-2025,16-02-2030,OK,Performance nominal.
+PP25PB45000920,"Wright, West and James",Rail Pad,B450,10-06-2025,18-06-2025,09-06-2030,OK,Performance nominal.
+PP25PB36600921,"Wright, West and James",Rail Pad,B366,14-06-2025,23-06-2025,13-06-2030,OK,Performance nominal.
+RC25LB93400922,Kent-Young,GFN Liner,B934,15-07-2025,30-07-2025,14-07-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB52700923,Wright Ltd,Elastic Rail Clip,B527,05-07-2025,20-07-2025,04-07-2030,OK,Performance nominal.
+PP25PB41700924,"Wright, West and James",Rail Pad,B417,04-02-2025,10-02-2025,03-02-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB35600925,Wright Ltd,Elastic Rail Clip,B356,15-04-2025,28-04-2025,14-04-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB16300926,"Cortez, Marsh and Nelson",Rail Pad,B163,20-08-2025,25-08-2025,19-08-2030,OK,Performance nominal.
+RC25LB96200927,Kent-Young,GFN Liner,B962,26-03-2025,13-04-2025,25-03-2030,OK,Performance nominal.
+RC25LB61900928,Kent-Young,GFN Liner,B619,20-06-2025,29-06-2025,19-06-2030,OK,Performance nominal.
+TS25PB24300929,"Cortez, Marsh and Nelson",Rail Pad,B243,16-01-2025,03-02-2025,15-01-2030,OK,Performance nominal.
+PP25LB63900930,"Wright, West and James",GFN Liner,B639,12-05-2025,21-05-2025,11-05-2030,FLAGGED,High failure rate predicted for this batch.
+RC25PB76000931,Kent-Young,Rail Pad,B760,08-04-2025,16-04-2025,07-04-2030,OK,Performance nominal.
+TS25LB43000932,"Cortez, Marsh and Nelson",GFN Liner,B430,22-01-2025,07-02-2025,21-01-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB63200933,"Cortez, Marsh and Nelson",GFN Liner,B632,12-01-2025,01-02-2025,11-01-2030,OK,Performance nominal.
+SI25PB53300934,Wright Ltd,Rail Pad,B533,04-05-2025,13-05-2025,03-05-2030,FLAGGED,High failure rate predicted for this batch.
+PP25CB87300935,"Wright, West and James",Elastic Rail Clip,B873,17-05-2025,25-05-2025,16-05-2030,OK,Performance nominal.
+PP25PB34900936,"Wright, West and James",Rail Pad,B349,21-08-2025,28-08-2025,20-08-2030,OK,Performance nominal.
+SI25LB97500937,Wright Ltd,GFN Liner,B975,14-01-2025,02-02-2025,13-01-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB28400938,Kent-Young,GFN Liner,B284,19-04-2025,27-04-2025,18-04-2030,OK,Performance nominal.
+PP25LB78800939,"Wright, West and James",GFN Liner,B788,16-05-2025,22-05-2025,15-05-2030,FLAGGED,High failure rate predicted for this batch.
+TS25PB76000940,"Cortez, Marsh and Nelson",Rail Pad,B760,03-03-2025,12-03-2025,02-03-2030,OK,Performance nominal.
+PP25LB74800941,"Wright, West and James",GFN Liner,B748,15-08-2025,25-08-2025,14-08-2030,OK,Performance nominal.
+TS25LB35900942,"Cortez, Marsh and Nelson",GFN Liner,B359,05-05-2025,22-05-2025,04-05-2030,OK,Performance nominal.
+SI25CB70900943,Wright Ltd,Elastic Rail Clip,B709,24-04-2025,05-05-2025,23-04-2030,OK,Performance nominal.
+TS25PB19400944,"Cortez, Marsh and Nelson",Rail Pad,B194,22-03-2025,29-03-2025,21-03-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB16500945,Kent-Young,GFN Liner,B165,11-04-2025,16-04-2025,10-04-2030,OK,Performance nominal.
+RC25PB52700946,Kent-Young,Rail Pad,B527,25-03-2025,13-04-2025,24-03-2030,OK,Performance nominal.
+SI25CB51100947,Wright Ltd,Elastic Rail Clip,B511,21-06-2025,05-07-2025,20-06-2030,FLAGGED,High failure rate predicted for this batch.
+TS25LB52300948,"Cortez, Marsh and Nelson",GFN Liner,B523,22-04-2025,02-05-2025,21-04-2030,OK,Performance nominal.
+TS25PB49600949,"Cortez, Marsh and Nelson",Rail Pad,B496,18-06-2025,07-07-2025,17-06-2030,OK,Performance nominal.
+SI25LB90600950,Wright Ltd,GFN Liner,B906,11-01-2025,22-01-2025,10-01-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB18900951,Wright Ltd,Elastic Rail Clip,B189,20-01-2025,31-01-2025,19-01-2030,OK,Performance nominal.
+SI25PB87000952,Wright Ltd,Rail Pad,B870,01-08-2025,08-08-2025,31-07-2030,OK,Performance nominal.
+RC25CB95400953,Kent-Young,Elastic Rail Clip,B954,06-04-2025,11-04-2025,05-04-2030,OK,Performance nominal.
+PP25CB21200954,"Wright, West and James",Elastic Rail Clip,B212,06-04-2025,24-04-2025,05-04-2030,OK,Performance nominal.
+RC25LB61100955,Kent-Young,GFN Liner,B611,10-06-2025,16-06-2025,09-06-2030,OK,Performance nominal.
+PP25LB42000956,"Wright, West and James",GFN Liner,B420,11-03-2025,22-03-2025,10-03-2030,OK,Performance nominal.
+TS25LB30900957,"Cortez, Marsh and Nelson",GFN Liner,B309,26-05-2025,09-06-2025,25-05-2030,OK,Performance nominal.
+SI25PB11900958,Wright Ltd,Rail Pad,B119,13-03-2025,21-03-2025,12-03-2030,OK,Performance nominal.
+RC25PB70300959,Kent-Young,Rail Pad,B703,16-05-2025,02-06-2025,15-05-2030,OK,Performance nominal.
+RC25PB88800960,Kent-Young,Rail Pad,B888,21-08-2025,04-09-2025,20-08-2030,OK,Performance nominal.
+SI25PB19400961,Wright Ltd,Rail Pad,B194,08-08-2025,28-08-2025,07-08-2030,OK,Performance nominal.
+SI25PB24600962,Wright Ltd,Rail Pad,B246,28-05-2025,03-06-2025,27-05-2030,OK,Performance nominal.
+PP25LB88700963,"Wright, West and James",GFN Liner,B887,02-02-2025,07-02-2025,01-02-2030,OK,Performance nominal.
+PP25LB72200964,"Wright, West and James",GFN Liner,B722,09-03-2025,17-03-2025,08-03-2030,OK,Performance nominal.
+SI25CB32400965,Wright Ltd,Elastic Rail Clip,B324,06-07-2025,18-07-2025,05-07-2030,OK,Performance nominal.
+RC25CB45900966,Kent-Young,Elastic Rail Clip,B459,14-07-2025,24-07-2025,13-07-2030,OK,Performance nominal.
+TS25LB75100967,"Cortez, Marsh and Nelson",GFN Liner,B751,01-02-2025,19-02-2025,31-01-2030,OK,Performance nominal.
+PP25PB78100968,"Wright, West and James",Rail Pad,B781,05-06-2025,15-06-2025,04-06-2030,OK,Performance nominal.
+PP25PB53300969,"Wright, West and James",Rail Pad,B533,14-02-2025,21-02-2025,13-02-2030,OK,Performance nominal.
+RC25LB99600970,Kent-Young,GFN Liner,B996,14-01-2025,20-01-2025,13-01-2030,OK,Performance nominal.
+PP25CB95700971,"Wright, West and James",Elastic Rail Clip,B957,14-07-2025,31-07-2025,13-07-2030,OK,Performance nominal.
+SI25PB22300972,Wright Ltd,Rail Pad,B223,22-07-2025,28-07-2025,21-07-2030,OK,Performance nominal.
+TS25LB32900973,"Cortez, Marsh and Nelson",GFN Liner,B329,01-07-2025,10-07-2025,30-06-2030,OK,Performance nominal.
+TS25CB34900974,"Cortez, Marsh and Nelson",Elastic Rail Clip,B349,10-04-2025,25-04-2025,09-04-2030,OK,Performance nominal.
+SI25LB73000975,Wright Ltd,GFN Liner,B730,28-06-2025,17-07-2025,27-06-2030,OK,Performance nominal.
+SI25PB38600976,Wright Ltd,Rail Pad,B386,07-03-2025,27-03-2025,06-03-2030,OK,Performance nominal.
+TS25CB92800977,"Cortez, Marsh and Nelson",Elastic Rail Clip,B928,05-08-2025,23-08-2025,04-08-2030,OK,Performance nominal.
+TS25CB53100978,"Cortez, Marsh and Nelson",Elastic Rail Clip,B531,26-06-2025,10-07-2025,25-06-2030,OK,Performance nominal.
+RC25PB33500979,Kent-Young,Rail Pad,B335,14-01-2025,31-01-2025,13-01-2030,FLAGGED,High failure rate predicted for this batch.
+RC25LB38300980,Kent-Young,GFN Liner,B383,26-03-2025,01-04-2025,25-03-2030,OK,Performance nominal.
+RC25CB22800981,Kent-Young,Elastic Rail Clip,B228,13-08-2025,20-08-2025,12-08-2030,OK,Performance nominal.
+TS25PB88200982,"Cortez, Marsh and Nelson",Rail Pad,B882,18-07-2025,02-08-2025,17-07-2030,FLAGGED,High failure rate predicted for this batch.
+SI25CB99800983,Wright Ltd,Elastic Rail Clip,B998,21-01-2025,27-01-2025,20-01-2030,OK,Performance nominal.
+TS25LB31300984,"Cortez, Marsh and Nelson",GFN Liner,B313,07-03-2025,23-03-2025,06-03-2030,OK,Performance nominal.
+RC25CB40900985,Kent-Young,Elastic Rail Clip,B409,04-04-2025,22-04-2025,03-04-2030,FLAGGED,High failure rate predicted for this batch.
+SI25LB57300986,Wright Ltd,GFN Liner,B573,11-01-2025,16-01-2025,10-01-2030,OK,Performance nominal.
+PP25CB54800987,"Wright, West and James",Elastic Rail Clip,B548,13-07-2025,27-07-2025,12-07-2030,OK,Performance nominal.
+PP25LB95100988,"Wright, West and James",GFN Liner,B951,21-06-2025,02-07-2025,20-06-2030,OK,Performance nominal.
+RC25CB77100989,Kent-Young,Elastic Rail Clip,B771,22-05-2025,29-05-2025,21-05-2030,OK,Performance nominal.
+PP25PB18300990,"Wright, West and James",Rail Pad,B183,04-04-2025,12-04-2025,03-04-2030,OK,Performance nominal.
+TS25PB16000991,"Cortez, Marsh and Nelson",Rail Pad,B160,19-01-2025,08-02-2025,18-01-2030,OK,Performance nominal.
+SI25CB10200992,Wright Ltd,Elastic Rail Clip,B102,12-08-2025,19-08-2025,11-08-2030,OK,Performance nominal.
+RC25PB90700993,Kent-Young,Rail Pad,B907,24-05-2025,11-06-2025,23-05-2030,OK,Performance nominal.
+SI25LB56200994,Wright Ltd,GFN Liner,B562,02-06-2025,20-06-2025,01-06-2030,OK,Performance nominal.
+RC25CB45400995,Kent-Young,Elastic Rail Clip,B454,02-02-2025,07-02-2025,01-02-2030,OK,Performance nominal.
+PP25CB27100996,"Wright, West and James",Elastic Rail Clip,B271,16-04-2025,22-04-2025,15-04-2030,OK,Performance nominal.
+TS25LB84000997,"Cortez, Marsh and Nelson",GFN Liner,B840,11-04-2025,20-04-2025,10-04-2030,OK,Performance nominal.
+RC25CB46300998,Kent-Young,Elastic Rail Clip,B463,28-03-2025,10-04-2025,27-03-2030,OK,Performance nominal.
+PP25PB71100999,"Wright, West and James",Rail Pad,B711,18-03-2025,29-03-2025,17-03-2030,OK,Performance nominal.
+PP25PB67601000,"Wright, West and James",Rail Pad,B676,11-05-2025,23-05-2025,10-05-2030,OK,Performance nominal.
