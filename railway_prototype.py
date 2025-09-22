@@ -80,7 +80,7 @@ class RailwayFittingsPrototype:
 
     def _scan_custom_code_with_camera(self):
         """
-        Opens the webcam to find the square grid of the custom code.
+        Opens the webcam to find a dot pattern, read its positions, and search the database.
         """
         print("\nAttempting to open webcam...")
         cap = cv2.VideoCapture(0)
@@ -100,8 +100,7 @@ class RailwayFittingsPrototype:
             thresh = cv2.adaptiveThreshold(blurred, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 11, 2)
             contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
-            # --- SIMPLIFIED DETECTION LOGIC ---
-            grid_detected_this_frame = False
+            found_code = False
             for cnt in contours:
                 peri = cv2.arcLength(cnt, True)
                 approx = cv2.approxPolyDP(cnt, 0.04 * peri, True)
@@ -113,19 +112,52 @@ class RailwayFittingsPrototype:
                     
                     # Only proceed if the shape is close to a square
                     if aspect_ratio >= 0.9 and aspect_ratio <= 1.1:
-                        # Draw a green box around the detected grid
                         cv2.drawContours(frame, [approx], -1, (0, 255, 0), 3)
-                        grid_detected_this_frame = True
-            
-            # Display a status message on the frame
-            if grid_detected_this_frame:
-                cv2.putText(frame, "Grid Detected!", (frame.shape[1] - 200, 30), 
-                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
-            else:
-                 cv2.putText(frame, "Scanning...", (10, 30), 
-                            cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 
-            cv2.imshow("Grid Detector", frame)
+                        # --- FULL DECODING LOGIC RESTORED ---
+                        # 1. Get a top-down view of the code
+                        rect = np.zeros((4, 2), dtype="float32")
+                        s = approx.sum(axis=2)
+                        rect[0] = approx[np.argmin(s)]; rect[2] = approx[np.argmax(s)]
+                        diff = np.diff(approx, axis=2)
+                        rect[1] = approx[np.argmin(diff)]; rect[3] = approx[np.argmax(diff)]
+                        
+                        dst = np.array([[0, 0], [IMAGE_SIZE-1, 0], [IMAGE_SIZE-1, IMAGE_SIZE-1], [0, IMAGE_SIZE-1]], dtype="float32")
+                        M = cv2.getPerspectiveTransform(rect, dst)
+                        warped = cv2.warpPerspective(gray, M, (IMAGE_SIZE, IMAGE_SIZE))
+
+                        # 2. Sample the grid to find dot positions
+                        dot_positions = []
+                        for i in range(GRID_SIZE * GRID_SIZE):
+                            row = i // GRID_SIZE
+                            col = i % GRID_SIZE
+                            
+                            # Define a small region in the center of the cell to sample
+                            startX = int(MARGIN + (col + 0.4) * DOT_SIZE)
+                            startY = int(MARGIN + (row + 0.4) * DOT_SIZE)
+                            endX = int(MARGIN + (col + 0.6) * DOT_SIZE)
+                            endY = int(MARGIN + (row + 0.6) * DOT_SIZE)
+                            
+                            roi = warped[startY:endY, startX:endX]
+                            
+                            if roi.size > 0:
+                                mean_value = np.mean(roi)
+                                if mean_value < 128:
+                                    dot_positions.append(i)
+                        
+                        # 3. If we found the correct number of dots, search for that pattern
+                        if len(dot_positions) == NUM_DOTS:
+                            pattern_str = ",".join(map(str, sorted(dot_positions)))
+                            print(f"\n--- Custom Code Detected! ---\nDetected Pattern: {pattern_str}")
+                            self._search_by_dot_pattern(pattern_str)
+                            found_code = True
+                            break
+            
+            if found_code:
+                break
+
+            cv2.putText(frame, "Scanning... Press 'q' to quit", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+            cv2.imshow("Custom Code Scanner", frame)
 
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 print("Scanning cancelled by user.")
@@ -186,7 +218,7 @@ class RailwayFittingsPrototype:
                 batch_code = input("Enter the Batch_Code to search for: ").strip()
                 if batch_code: self._search_by_batch_code(batch_code)
             elif choice == '2':
-                # This will now only detect the grid, not decode
+                # This will now perform the full scan and decode
                 self._scan_custom_code_with_camera()
             elif choice == '3': break
             else: print("Invalid choice.")
